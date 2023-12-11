@@ -1,0 +1,8 @@
+{
+  "label": "Profession description",
+  "position": 10,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index"
+  }  
+}

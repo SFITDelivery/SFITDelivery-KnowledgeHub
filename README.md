@@ -10,13 +10,6 @@ Our mission is to create a centralized, community-driven repository that empower
 - **Best Practices**: Curated methodologies and strategies for optimizing Salesforce DevOps and delivery management processes.
 - **Community Contributions**: Contributions from experts and practitioners in the field, enriching the repository with diverse perspectives and innovative solutions.
 
-## Why Docusaurus 2?
-We have chosen Docusaurus 2 for its simplicity, ease of use, and capability to support versioned documentation. Docusaurus 2 allows us to:
-
-- Create a visually appealing, easy-to-navigate documentation website.
-- Manage content versions effectively, ensuring that users always have access to the latest information as well as previous iterations.
-- Foster a collaborative environment where community members can contribute easily.
-
 ## Contributing
 We strongly encourage community contributions! Whether you're offering a code snippet, an article on best practices, or any other valuable insight, your input is highly appreciated. To contribute:
 
@@ -29,9 +22,9 @@ We value each contribution and strive to incorporate them in a way that benefits
 ## Getting Started
 To get started with this knowledge hub:
 
-- Visit our [Documentation Website](#).
+- Visit our [Documentation Website](https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/).
 - Explore the categories and find the resources you need.
 - Follow the instructions to contribute.
 
 ## Stay Connected
-Join our community to stay updated, share ideas, and collaborate. You can connect with us through [GitHub Discussions](#), [Twitter](#), [LinkedIn](#), or our community forums.
+Join our community to stay updated, share ideas, and collaborate. You can connect with us through [GitHub Discussions](#), [LinkedIn](https://www.linkedin.com/in/stanislavd2269/), or [sfitdelivery@gmail.com](mailto:sfitdelivery@gmail.com).
