@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Deploy Custom Labels Translation
-tags: [metadata, deploy]
+tags: [metadata, deploy, FAQ]
 ---
 # How to Deploy Custom Labels Translation
 
