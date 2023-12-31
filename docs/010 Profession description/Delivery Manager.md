@@ -10,7 +10,7 @@ A Delivery Manager is a data-driven change manager responsible for the end-to-en
 It's important not to confuse the Delivery Manager role with other professions like Service Delivery Manager, Scrum Master, or Agile Coach. Even individually, these roles do not fully characterize the role of a Delivery Manager.
 
 ## Why a Delivery Manager is Needed
-s
+
 - Accelerating product delivery to the market amidst increasing complexity in IT systems, processes, and products.
 - Reassembling and improving processes of a growing or changing business, ensuring that companies maintain agility and efficiency while scaling.
 - Accumulating and sharing practices and experiences with the organization, teams, employees, and the community.
