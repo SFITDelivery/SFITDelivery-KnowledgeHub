@@ -110,10 +110,10 @@ const config = {
                 label: 'email',
                 href: 'mailto:sfitdelivery@gmail.com',
               },
-              /*{
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },*/
+              {
+                label: 'Discussions',
+                href: 'https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/discussions/2',
+              },
             ],
           },
           {
