@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Salesforce: DevOps and Delivery Management',
+  title: 'SF: DevOps and Delivery Management',
   tagline: 'Roles, best practices, scripts, templates, solutions, development',
   favicon: 'img/favicon.ico',
   plugins: [require.resolve('docusaurus-lunr-search')],
@@ -66,6 +66,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+        colorMode: {
+          defaultMode: 'light',
+          disableSwitch: true,
+          respectPrefersColorScheme: false,
+        },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
