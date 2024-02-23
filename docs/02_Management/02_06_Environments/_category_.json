@@ -1,0 +1,8 @@
+{
+  "label": "Enviroments",
+  "position": 60,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index"
+  } 
+}

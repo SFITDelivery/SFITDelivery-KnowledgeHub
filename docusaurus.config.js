@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Salesforce: DevOps and Delivery Management',
+  title: 'SF: DevOps and Delivery Management',
   tagline: 'Roles, best practices, scripts, templates, solutions, development',
   favicon: 'img/favicon.ico',
   plugins: [require.resolve('docusaurus-lunr-search')],
@@ -66,6 +66,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+        colorMode: {
+          defaultMode: 'light',
+          disableSwitch: true,
+          respectPrefersColorScheme: false,
+        },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -110,10 +115,10 @@ const config = {
                 label: 'email',
                 href: 'mailto:sfitdelivery@gmail.com',
               },
-              /*{
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },*/
+              {
+                label: 'Discussions',
+                href: 'https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/discussions/2',
+              },
             ],
           },
           {
