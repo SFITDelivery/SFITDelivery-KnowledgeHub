@@ -1,0 +1,8 @@
+{
+  "label": "Project",
+  "position": 70,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index"
+  } 
+}

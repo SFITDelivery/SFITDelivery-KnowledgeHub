@@ -1,0 +1,8 @@
+{
+  "label": "Release",
+  "position": 90,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index"
+  } 
+}

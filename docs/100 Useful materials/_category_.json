@@ -1,8 +1,0 @@
-{
-  "label": "Useful materials",
-  "position": 100,
-  "collapsible": true,
-  "link": {
-    "type": "generated-index"
-  }  
-}
