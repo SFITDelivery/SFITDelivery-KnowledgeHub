@@ -45,3 +45,15 @@
   --ifm-color-primary-lightest:#77CEFF;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hidden-page {
+  display: none !important;
+  }
+
+.disabled-page {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+  pointer-events: none;
+}
