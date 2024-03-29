@@ -37,6 +37,8 @@ tags: [DevOps, role, FAQ, grades]
  - Quick Start: Visual Studio Code for Salesforce Development - [link](https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce?trailmix_creator_id=rteeling&trailmix_slug=salesforce-devops)
  - Data Security - [link](https://trailhead.salesforce.com/en/content/learn/modules/data_security)
  - Build Apex Coding Skills - [link](https://trailhead.salesforce.com/en/content/learn/trails/build-apex-coding-skills)
+ - Second-Generation Managed Packages - [link](https://trailhead.salesforce.com/content/learn/modules/second-generation-managed-packages)
+ - Quick Start: Unlocked Packages - [link](https://trailhead.salesforce.com/content/learn/projects/quick-start-unlocked-packages)
  
 ### Trailmix:
  - Architect Journey: Development Lifecycle and Deployment - [link](https://trailhead.salesforce.com/users/strailhead/trailmixes/architect-dev-lifecycle-and-deployment)
