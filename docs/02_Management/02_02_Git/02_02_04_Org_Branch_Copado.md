@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 title: Copado Branching Strategy
 tags: [Managment, Git, Copado]
 ---

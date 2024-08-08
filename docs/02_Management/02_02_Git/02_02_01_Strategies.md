@@ -5,6 +5,13 @@ tags: [Managment, Git, Comparison]
 ---
 
 **Git is becoming an essential part of Salesforce projects, although some projects still rely on changesets for delivery.**
+
+:::info
+There is no silver bullet. <br/>
+The article presents various strategies and approaches. <br/>
+A skillful combination of these will help create the ideal Git strategy for a specific project.
+:::
+
 ## Why Git is Needed
 
 Git is necessary for projects for several reasons:
@@ -66,6 +73,18 @@ When choosing a Git strategy for a project, several factors need to be considere
 
 **A Git strategy, like a release strategy, should meet the project's requirements and architecture, ensuring flexibility and reliability.**
 
-## Git Strategies: Pros and Cons
+## Comparison of Git Strategies
 
-(This section will provide links to articles describing each of the popular strategies, their pros, and cons.)
+| Strategy                      | Team Size    | Release Development Cycle Length | Parallel Releases | Supporting Frequent Deployments | Level of Support for Parallel Development |
+| ----------------------------- | ------------ | -------------------------------- | ----------------- | ------------------------------- | ----------------------------------------- |
+| [Trunk-Based Development (TBD)](./02_02_02_TBD.md) | Small/Medium | Short                            | No                | High                            | Low                                       |
+| [Git Flow](./02_02_03_Git_Flow.md)                      | Small/Medium | Short/Medium                     | No                | Medium                          | Low/Medium                                |
+| [Copado Branch](./02_02_04_Org_Branch_Copado.md)                 | Small/Medium | Short/Medium                     | No                | High/Medium                     | Low/Medium                                |
+| [Parallel Releases](./02_02_05_Parallel_Releases.md)             | Medium/Large | Short/Medium/Long                | Yes               | Medium                          | High                                      |
+| [Fork Strategy](./02_02_06_Fork_Strategy.md)                 | Large        | Medium/Long                      | Yes               | Low                             | High                                      |
+
+## Git Approaches
+
+[HotFix](./02_02_09_HotFix.md)<br/>
+[Feature Branch](./02_02_08_Feature_Branch.md)<br/>
+[Org Branch](./02_02_07_Org_Branch.md)<br/>

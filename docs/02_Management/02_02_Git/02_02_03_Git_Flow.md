@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 3
 title: Git Flow
 tags: [Managment, Git, Releases]
 ---
