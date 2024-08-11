@@ -1,6 +1,6 @@
 {
-  "label": "Deployment",
-  "position": 30,
+  "label": "Release",
+  "position": 10,
   "collapsible": true,
   "link": {
     "type": "generated-index"
