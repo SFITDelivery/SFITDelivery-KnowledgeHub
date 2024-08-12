@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SF: DevOps and Delivery Management',
-  tagline: 'Roles, best practices, scripts, templates, solutions, development',
+  title: 'Salesforce: DevOps and Delivery Management',
+  tagline: 'Roles, best practices, scripts, templates, solutions, development - Knowledge Hub',
   favicon: 'img/favicon.ico',
   plugins: [require.resolve('docusaurus-lunr-search')],
 

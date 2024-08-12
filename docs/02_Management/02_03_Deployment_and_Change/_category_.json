@@ -1,6 +1,6 @@
 {
-  "label": "Delivery",
-  "position": 10,
+  "label": "Deployment and Change",
+  "position": 30,
   "collapsible": true,
   "link": {
     "type": "generated-index"
