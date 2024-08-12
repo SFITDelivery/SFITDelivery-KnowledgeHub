@@ -2,7 +2,6 @@
 sidebar_position: 10
 title: Anti-patterns
 tags: [Managment, Git, Anti-patterns]
-sidebar_class_name: disabled-page
 ---
 
 1. **Lack of Clear Structure and Documentation**: Implementing Git strategies without clear documentation and structure can lead to chaos. Developers may not understand which branches to use and in what order to merge.
