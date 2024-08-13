@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Salesforce: DevOps and Delivery Management Blog</title>
+        <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog</link>
+        <description>Salesforce: DevOps and Delivery Management Blog</description>
+        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Adding articles and updating the structure.]]></title>
+            <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/git-and-roles-and-structure</link>
+            <guid>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/git-and-roles-and-structure</guid>
+            <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The portal structure has been modified for easier navigation.]]></description>
+            <content:encoded><![CDATA[<p>The portal structure has been modified for easier navigation.<br>
+<!-- -->Articles on <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/Roles/">Roles</a> and <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/category/git">Git Management</a>, including descriptions of strategies and comparisons, have been added.
+Articles on other topics are currently being created.</p>]]></content:encoded>
+            <category>DevOps</category>
+            <category>DM</category>
+            <category>Update</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/welcome</link>
+            <guid>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/welcome</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[DevOps and Delivery practices are underdeveloped in Salesforce projects.]]></description>
+            <content:encoded><![CDATA[<p>DevOps and Delivery practices are underdeveloped in Salesforce projects.
+Small projects often do not integrate these roles with the existing ones on the project, such as developers.
+Large projects turn to off-the-shelf products.
+All of this leads to suboptimal solutions, or pitfalls laid at the foundation of the project.</p>
+<p>This resource is created for sharing and accumulating experience and best DevOps and Delivery practices within Salesforce and cross-projects.
+Here, you will find documentation and technical solutions.</p>
+<p>Please feel free to propose your changes/solutions/edits - this is an open project.</p>
+<p>Let's make this world a better place!</p>]]></content:encoded>
+            <category>hello</category>
+            <category>DevOps</category>
+            <category>DM</category>
+        </item>
+    </channel>
+</rss>

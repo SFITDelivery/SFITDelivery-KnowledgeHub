@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog</id>
+    <title>Salesforce: DevOps and Delivery Management Blog</title>
+    <updated>2024-08-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog"/>
+    <subtitle>Salesforce: DevOps and Delivery Management Blog</subtitle>
+    <icon>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adding articles and updating the structure.]]></title>
+        <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/git-and-roles-and-structure</id>
+        <link href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/git-and-roles-and-structure"/>
+        <updated>2024-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The portal structure has been modified for easier navigation.]]></summary>
+        <content type="html"><![CDATA[<p>The portal structure has been modified for easier navigation.<br>
+<!-- -->Articles on <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/Roles/">Roles</a> and <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/category/git">Git Management</a>, including descriptions of strategies and comparisons, have been added.
+Articles on other topics are currently being created.</p>]]></content>
+        <author>
+            <name>Stanislav Dudkov</name>
+            <uri>https://www.linkedin.com/in/stanislavd2269/</uri>
+        </author>
+        <category label="DevOps" term="DevOps"/>
+        <category label="DM" term="DM"/>
+        <category label="Update" term="Update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/welcome</id>
+        <link href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/welcome"/>
+        <updated>2024-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DevOps and Delivery practices are underdeveloped in Salesforce projects.]]></summary>
+        <content type="html"><![CDATA[<p>DevOps and Delivery practices are underdeveloped in Salesforce projects.
+Small projects often do not integrate these roles with the existing ones on the project, such as developers.
+Large projects turn to off-the-shelf products.
+All of this leads to suboptimal solutions, or pitfalls laid at the foundation of the project.</p>
+<p>This resource is created for sharing and accumulating experience and best DevOps and Delivery practices within Salesforce and cross-projects.
+Here, you will find documentation and technical solutions.</p>
+<p>Please feel free to propose your changes/solutions/edits - this is an open project.</p>
+<p>Let's make this world a better place!</p>]]></content>
+        <author>
+            <name>Stanislav Dudkov</name>
+            <uri>https://www.linkedin.com/in/stanislavd2269/</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="DevOps" term="DevOps"/>
+        <category label="DM" term="DM"/>
+    </entry>
+</feed>
