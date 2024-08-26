@@ -1,6 +1,6 @@
 {
-  "label": "Audit",
-  "position": 50,
+  "label": "Change Managment",
+  "position": 40,
   "collapsible": true,
   "link": {
     "type": "generated-index"
