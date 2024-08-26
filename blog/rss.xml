@@ -4,10 +4,22 @@
         <title>Salesforce: DevOps and Delivery Management Blog</title>
         <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog</link>
         <description>Salesforce: DevOps and Delivery Management Blog</description>
-        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The release management section has been updated.]]></title>
+            <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/release_management_section_added</link>
+            <guid>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/release_management_section_added</guid>
+            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Basic articles have been added to the release management section.]]></description>
+            <content:encoded><![CDATA[<p>Basic articles have been added to the <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/category/release">release management section</a>.<br>
+<!-- -->The articles contain information on methodology and practical advice on release management, with a separate note dedicated to <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/Management/02_01_Release/02_01_04_HotFix">HotFix</a>. <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/Management/02_01_Release/02_01_06_Anti_patterns">Anti-patterns</a> can help conduct a quick, superficial review of the project's release management processes, allowing for the identification of common mistakes and shortcomings.</p>]]></content:encoded>
+            <category>DevOps</category>
+            <category>DM</category>
+            <category>Update</category>
+        </item>
         <item>
             <title><![CDATA[Adding articles and updating the structure.]]></title>
             <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/git-and-roles-and-structure</link>

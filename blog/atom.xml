@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog</id>
     <title>Salesforce: DevOps and Delivery Management Blog</title>
-    <updated>2024-08-12T00:00:00.000Z</updated>
+    <updated>2024-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog"/>
     <subtitle>Salesforce: DevOps and Delivery Management Blog</subtitle>
     <icon>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The release management section has been updated.]]></title>
+        <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/release_management_section_added</id>
+        <link href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/release_management_section_added"/>
+        <updated>2024-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Basic articles have been added to the release management section.]]></summary>
+        <content type="html"><![CDATA[<p>Basic articles have been added to the <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/category/release">release management section</a>.<br>
+<!-- -->The articles contain information on methodology and practical advice on release management, with a separate note dedicated to <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/Management/02_01_Release/02_01_04_HotFix">HotFix</a>. <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/Management/02_01_Release/02_01_06_Anti_patterns">Anti-patterns</a> can help conduct a quick, superficial review of the project's release management processes, allowing for the identification of common mistakes and shortcomings.</p>]]></content>
+        <author>
+            <name>Stanislav Dudkov</name>
+            <uri>https://www.linkedin.com/in/stanislavd2269/</uri>
+        </author>
+        <category label="DevOps" term="DevOps"/>
+        <category label="DM" term="DM"/>
+        <category label="Update" term="Update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adding articles and updating the structure.]]></title>
         <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/git-and-roles-and-structure</id>

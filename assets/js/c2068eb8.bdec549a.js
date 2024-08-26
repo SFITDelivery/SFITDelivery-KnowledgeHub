@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksfit_delivery_knowledge_hub=self.webpackChunksfit_delivery_knowledge_hub||[]).push([[6769],{5452:e=>{e.exports=JSON.parse('{"permalink":"/SFITDelivery-KnowledgeHub/blog/tags/dev-ops","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
