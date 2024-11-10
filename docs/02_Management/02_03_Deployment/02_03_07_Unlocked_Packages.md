@@ -1,6 +1,6 @@
 ---
-sidebar_position: 5
-title: Unlocked Packages
+sidebar_position: 7
+title: Packages
 tags: [Managment, Deployment, Unlocked]
 sidebar_class_name: disabled-page
 ---

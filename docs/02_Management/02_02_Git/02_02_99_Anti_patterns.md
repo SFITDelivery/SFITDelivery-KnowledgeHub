@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 99
 title: Anti-patterns
 tags: [Managment, Git, Anti-patterns]
 ---
