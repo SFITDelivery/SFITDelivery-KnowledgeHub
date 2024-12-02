@@ -43,6 +43,8 @@ For example: <br />
 
 Using the **RunSpecifiedTests** parameter during deployment executes only specified tests, enabling the team to run only those necessary to verify specific changes. This method is particularly useful when rapid changes need to be deployed without involving the entire test suite and is preferred for optimizing CI/CD processes in projects with frequent, small updates.
 
+As an option for storing the test database to run specified tests, it’s possible to use a test coverage matrix.
+<!-- TODO: add link to test coverage matrix -->
 ### Technical Implementation of RunSpecifiedTests
 
 Similar to `RunLocalTests`, the technical implementation of `RunSpecifiedTests` does not depend on the selected deployment type. Whether you choose deployment by directory, specific files, or `package.xml`, the approach remains the same.
