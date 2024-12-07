@@ -41,8 +41,8 @@ Unlocked packages are especially useful in the following situations:
 - **Projects with Many Dependencies**: If a project involves numerous component dependencies, unlocked packages help manage these dependencies, making them explicit and controllable.
 - **Need for Version Rollback**: Unlocked packages make it easy to roll back specific changes if errors or functionality issues arise, as each package has a separate version history.
 
-Additional article on unlocked packages:
-<!-- TODO: link to a detailed article on unlocked packages  - 02_03_08_Unlocked_Packages.md -->
+[Additional article on unlocked packages](02_03_08_Unlocked_Packages.md)
+
 ## Managed Package
 
 A **Managed Package** in Salesforce is designed for distributing applications and components via AppExchange or for internal use with the ability to update. Managed packages are created with full version control, allowing developers to release updates and patches to users without affecting their data and settings. These packages are closed for code modification, ensuring intellectual property protection and preventing functional interference.
