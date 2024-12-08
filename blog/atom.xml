@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog</id>
     <title>Salesforce: DevOps and Delivery Management Blog</title>
-    <updated>2024-08-26T00:00:00.000Z</updated>
+    <updated>2024-12-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog"/>
     <subtitle>Salesforce: DevOps and Delivery Management Blog</subtitle>
     <icon>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The deployment management section has been updated.]]></title>
+        <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/deployment_management_section_added</id>
+        <link href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/deployment_management_section_added"/>
+        <updated>2024-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Basic articles have been added to the deployment management section.]]></summary>
+        <content type="html"><![CDATA[<p>Basic articles have been added to the <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/docs/category/deployment">deployment management section</a>.<br>
+<!-- -->In this section, you will find materials that will help optimize deployment processes, and improve system stability.</p>
+<p>The section includes articles on the following key topics:</p>
+<ul>
+<li><strong>Basics of Deployment Management</strong>: Understanding the differences between release and deployment stages to minimize risks and improve planning.</li>
+<li><strong>Process Automation</strong>: Fundamental principles and approaches to automation for increased reliability and efficiency.</li>
+<li><strong>Metadata Deployment Approaches</strong>: Choosing between full and partial deployment to optimize resources and enhance control.</li>
+<li><strong>Testing During Deployment</strong>: Running tests to ensure high quality and system stability.</li>
+<li><strong>Removing Outdated Components</strong>: Recommendations for implementing destructive changes to maintain order and relevance in the system.</li>
+<li><strong>Quick Deploy</strong>: Leveraging accelerated deployment for critical changes.</li>
+<li><strong>Version Management</strong>: Utilizing modular approaches and Salesforce packages to simplify updates and improve control.</li>
+<li><strong>Quality Control</strong>: Using test coverage matrices for transparent analysis and quality improvement.</li>
+</ul>
+<p>This section will become a valuable tool for teams aiming to optimize development and deployment processes in Salesforce. If you'd like to contribute, join the project!</p>]]></content>
+        <author>
+            <name>Stanislav Dudkov</name>
+            <uri>https://www.linkedin.com/in/stanislavd2269/</uri>
+        </author>
+        <category label="DevOps" term="DevOps"/>
+        <category label="DM" term="DM"/>
+        <category label="Update" term="Update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The release management section has been updated.]]></title>
         <id>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/release_management_section_added</id>
