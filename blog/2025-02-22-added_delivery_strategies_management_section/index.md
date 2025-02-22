@@ -4,7 +4,7 @@ title: The delivery strategie section has been added.
 authors: [d2269]
 tags: [DevOps, DM, Update]
 ---
-A new section on change [Delivery Strategies](docs/02_Management/02_04_Delivery_Strategies) has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.
+A new section on change [Delivery Strategies](/docs/category/delivery-strategies) has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.
 What's New?
 - **Fundamentals of Delivery Strategies** – How to choose the optimal deployment method
 - **Phased Rollouts** – Step-by-step implementation to reduce risks
