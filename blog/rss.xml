@@ -4,10 +4,31 @@
         <title>Salesforce: DevOps and Delivery Management Blog</title>
         <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog</link>
         <description>Salesforce: DevOps and Delivery Management Blog</description>
-        <lastBuildDate>Sun, 08 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The delivery strategie section has been added.]]></title>
+            <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/delivery_strategie_section_added</link>
+            <guid>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/delivery_strategie_section_added</guid>
+            <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new section on change Delivery Strategies has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.]]></description>
+            <content:encoded><![CDATA[<p>A new section on change <a href="https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/docs/02_Management/02_04_Delivery_Strategies">Delivery Strategies</a> has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.
+What's New?</p>
+<ul>
+<li><strong>Fundamentals of Delivery Strategies</strong> – How to choose the optimal deployment method</li>
+<li><strong>Phased Rollouts</strong> – Step-by-step implementation to reduce risks</li>
+<li><strong>Dark Launches</strong> – Deploying without user visibility</li>
+<li><strong>Blue-Green Deployment</strong> – Minimizing downtime and enabling quick rollbacks</li>
+<li><strong>Big Bang Deployment</strong> – Full release in one go and its risks</li>
+<li><strong>A/B Testing</strong> – Experimenting to enhance user experience</li>
+</ul>
+<p>These materials will help DevOps engineers, Delivery managers, and anyone involved in system changes to manage deployments efficiently and safely.</p>]]></content:encoded>
+            <category>DevOps</category>
+            <category>DM</category>
+            <category>Update</category>
+        </item>
         <item>
             <title><![CDATA[The deployment management section has been updated.]]></title>
             <link>https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/blog/deployment_management_section_added</link>
