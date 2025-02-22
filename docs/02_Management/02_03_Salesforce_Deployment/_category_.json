@@ -1,6 +1,6 @@
 {
-  "label": "Change",
-  "position": 40,
+  "label": "Salesforce Deployment",
+  "position": 30,
   "collapsible": true,
   "link": {
     "type": "generated-index"
