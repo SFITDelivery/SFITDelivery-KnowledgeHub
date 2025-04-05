@@ -16,6 +16,20 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.welcomeText}>
+          <p>
+            This portal is an open knowledge base on DevOps and Delivery for Salesforce.<br />
+            Here you'll find practical materials to help you build a reliable delivery process for your project.
+          </p>
+          <p>
+            Explore. Share. Contribute. Write your own articles!<br />
+            The project is open to everyone who wants to grow — and help others grow too.
+          </p>
+          <p style={{ marginTop: '1rem' }}>
+            <em>Best regards,</em><br />
+            <strong>Stanislav Dudkov</strong>, Project Lead & Knowledge Curator
+          </p>
+        </div>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -27,6 +41,7 @@ function HomepageHeader() {
     </header>
   );
 }
+
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
