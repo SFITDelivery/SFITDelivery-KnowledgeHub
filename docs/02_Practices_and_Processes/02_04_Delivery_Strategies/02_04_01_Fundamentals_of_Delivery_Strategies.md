@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Fundamentals of Delivery Strategies
 tags: [Managment, Delivery, Base]
 ---
-In modern change management, the key task is to minimize risks when deploying new features while ensuring system stability. Deployment methods such as [Big Bang](docs/02_Management/02_04_Delivery_Strategies/02_04_05_Big_Bang.md), [Phased Rollouts](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md), [Dark Launches](docs/02_Management/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Management/02_04_Delivery_Strategies/02_04_04_Blue_Green.md), and [A/B Testing](docs/02_Management/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md) allow for a flexible approach to implementing changes depending on the context and business goals.
+In modern change management, the key task is to minimize risks when deploying new features while ensuring system stability. Deployment methods such as [Big Bang](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_05_Big_Bang.md), [Phased Rollouts](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md), [Dark Launches](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md), and [A/B Testing](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md) allow for a flexible approach to implementing changes depending on the context and business goals.
 
 Deployment methods are not just technical tools but also a crucial part of a change management strategy. Understanding the pros and cons of each approach, as well as their interconnections, helps choose the optimal strategy, minimizing risks and increasing user satisfaction.
 
@@ -15,7 +15,7 @@ Choosing the right deployment method depends on the task at hand and can:
 - Quickly respond to unforeseen issues through flexible process management.
 
 Incorrect strategy selection can lead to disruptions and financial losses.  
-This topic is also closely related to [Release Management](docs/02_Management/02_01_Release/02_01_01_Release_Management.md).
+This topic is also closely related to [Release Management](docs/02_Practices_and_Processes/02_01_Release/02_01_01_Release_Management.md).
 
 Examples of well-known issues caused by incorrect releases:
 - **GitLab (2017):** A production database error and the lack of proper backups caused the company to lose a significant amount of data.
@@ -53,19 +53,19 @@ Below are the advantages and disadvantages of each approach.
 
 |**Method**|**Advantages**|**Disadvantages**|
 |---|---|---|
-|[**Big Bang Deployment**](docs/02_Management/02_04_Delivery_Strategies/02_04_05_Big_Bang.md)|Fast deployment, unified system version.|High risk, rollback complexity, support load.|
-|[**Phased Rollouts**](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md)|Risk minimization, feedback collection, management flexibility.|Long deployment, resource management challenges.|
-|[**Dark Launches**](docs/02_Management/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md)|Real-world testing, risk minimization, support for A/B testing.|Setup complexity, hidden functionality management.|
-|[**Blue-Green Deployment**](docs/02_Management/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|Minimal downtime, quick rollback, system stability.|High infrastructure costs, complex data and version management.|
+|[**Big Bang Deployment**](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_05_Big_Bang.md)|Fast deployment, unified system version.|High risk, rollback complexity, support load.|
+|[**Phased Rollouts**](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md)|Risk minimization, feedback collection, management flexibility.|Long deployment, resource management challenges.|
+|[**Dark Launches**](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md)|Real-world testing, risk minimization, support for A/B testing.|Setup complexity, hidden functionality management.|
+|[**Blue-Green Deployment**](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|Minimal downtime, quick rollback, system stability.|High infrastructure costs, complex data and version management.|
 
 ## Summary Table for Strategy Selection
 To better characterize strategies based on delivery process requirements, the following table has been created:
 
 |**Conditions**|**Recommended Strategies**|
 |---|---|
-|**Small Volume of Changes**|[Big Bang Deployment](docs/02_Management/02_04_Delivery_Strategies/02_04_05_Big_Bang.md)|
-|**High Business Risks**|[Phased Rollouts](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md), [Dark Launches](docs/02_Management/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Management/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|
-|**Large User Base**|[Phased Rollouts](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md)|
-|**Integration with Other Systems**|[Dark Launches](docs/02_Management/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Management/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|
-|**Testing New Features**|[A/B Testing](docs/02_Management/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md), [Dark Launches](docs/02_Management/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md)|
-|**Minimal Downtime and Fast Backup Requirements**|[Blue-Green Deployment](docs/02_Management/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|
+|**Small Volume of Changes**|[Big Bang Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_05_Big_Bang.md)|
+|**High Business Risks**|[Phased Rollouts](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md), [Dark Launches](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|
+|**Large User Base**|[Phased Rollouts](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md)|
+|**Integration with Other Systems**|[Dark Launches](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|
+|**Testing New Features**|[A/B Testing](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md), [Dark Launches](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md)|
+|**Minimal Downtime and Fast Backup Requirements**|[Blue-Green Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md)|

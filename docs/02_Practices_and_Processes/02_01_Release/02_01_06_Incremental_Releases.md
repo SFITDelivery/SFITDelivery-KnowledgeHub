@@ -8,7 +8,7 @@ An **incremental release** is a software development and deployment strategy in 
 Unlike the release model with a large volume of changes at once, an incremental release focuses on **gradual and continuous delivery**. This ensures thorough testing of each change, continuous monitoring, and adaptation based on user feedback.
 
 ## Key Characteristics of an Incremental Release
-1. **Small, frequent updates** – Instead of large, infrequent releases, updates are delivered in smaller chunks, allowing for faster implementation of improvements. How the optimal development/release size is determined is explained in the article [Batch Size](docs/02_Management/02_01_Release/02_01_07_Batch_Size.md)
+1. **Small, frequent updates** – Instead of large, infrequent releases, updates are delivered in smaller chunks, allowing for faster implementation of improvements. How the optimal development/release size is determined is explained in the article [Batch Size](docs/02_Practices_and_Processes/02_01_Release/02_01_07_Batch_Size.md)
 2. **Integration of user feedback** – Short release cycles enable rapid incorporation of user requests, enhancing user satisfaction.
 3. **Risk reduction** – Smaller updates help identify and address potential issues more efficiently by maintaining control over a limited scope of changes.
 4. **Increased flexibility** – This approach aligns well with Agile and DevOps methodologies, ensuring quick adaptation to market changes.
@@ -37,7 +37,7 @@ Unlike the release model with a large volume of changes at once, an incremental 
 
 ### 5. Deployment and Release
 - **Pilot deployment:** Launch the increment in a controlled environment (such as a testing or staging environment) to verify stability in near-production conditions.
-- **Gradual rollout:** Use deployment strategies like [Phased Rollouts](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md) or [Blue-Green Deployment](docs/02_Management/02_04_Delivery_Strategies/02_04_04_Blue_Green.md) deployment to minimize risks associated with the new version going live.
+- **Gradual rollout:** Use deployment strategies like [Phased Rollouts](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md) or [Blue-Green Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md) deployment to minimize risks associated with the new version going live.
 - **Final release:** After successful pilot testing, the update is rolled out to all users.
 
 ### 6. Monitoring and Feedback Collection

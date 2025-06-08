@@ -15,7 +15,7 @@ Dark Launches are a powerful tool for improving release quality, especially in S
 
 ## Phased Rollouts vs. Dark Launches: Key Differences
 While both approaches focus on risk management and incremental changes, their goals differ:
-- [**Phased Rollouts**](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md) aim to gradually increase the audience for a feature that is already production-ready.
+- [**Phased Rollouts**](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md) aim to gradually increase the audience for a feature that is already production-ready.
 - **Dark Launches** focus on testing hidden functionality in a production environment before its mass activation.
 
 ## How Do Dark Launches Work?
@@ -103,7 +103,7 @@ Dark Launches provide early access to:
 - This helps address potential issues and incorporate user requests.
 
 ### 4. **Preparation for A/B Testing**
-[A/B Tests](docs/02_Management/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md)
+[A/B Tests](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md)
 For launching multiple feature variants, Dark Launches:
 - Enable testing in a live environment.
 - Help choose the optimal variant based on data and user experience.

@@ -59,7 +59,7 @@ Debug Logs have several limitations that must be considered:
 
  **When Debug Logs Are NOT Suitable:**
 <!-- TODO: add link to  Lightning Usage App-->
-- For **continuous monitoring** of all events in an organization – Use [**Event Monitoring**](docs/02_Management/02_06_Environments/02_06_05_SF_Event_Monitoring.md) instead.
+- For **continuous monitoring** of all events in an organization – Use [**Event Monitoring**](docs/02_Practices_and_Processes/02_06_Environments/02_06_05_SF_Event_Monitoring.md) instead.
 - For **analyzing Lightning UI performance** – Use **Lightning Usage App** instead.
 
 ## Learning and Reference Materials

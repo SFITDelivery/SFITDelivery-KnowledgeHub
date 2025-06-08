@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Big Bang
 tags: [Managment, Change]
 ---
-**Big Bang Deployment** is a deployment strategy where all changes are implemented simultaneously in the target environment. Unlike [Phased rollouts](docs/02_Management/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md) or [Dark Launches](docs/02_Management/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), Big Bang Deployment involves making all new functionalities available to all users at once. This approach carries a high level of risk, as all changes become active simultaneously, and rolling back changes is typically more challenging.
+**Big Bang Deployment** is a deployment strategy where all changes are implemented simultaneously in the target environment. Unlike [Phased rollouts](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md) or [Dark Launches](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), Big Bang Deployment involves making all new functionalities available to all users at once. This approach carries a high level of risk, as all changes become active simultaneously, and rolling back changes is typically more challenging.
 
 In Salesforce, this approach is often used due to its simplicity.
 
