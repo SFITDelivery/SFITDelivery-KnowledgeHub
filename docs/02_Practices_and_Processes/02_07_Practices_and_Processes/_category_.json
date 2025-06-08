@@ -1,6 +1,6 @@
 {
-  "label": "Managment",
-  "position": 20,
+  "label": "Practices and Processes",
+  "position": 70,
   "collapsible": true,
   "link": {
     "type": "generated-index"
