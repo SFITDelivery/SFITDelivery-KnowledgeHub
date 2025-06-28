@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Gearset
+title: DevOpsTools
 tags: [Tools, Gearset]
 sidebar_class_name: disabled-page
 ---
