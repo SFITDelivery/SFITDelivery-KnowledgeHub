@@ -15,27 +15,24 @@ If you spot any mistakes or outdated information, please consider suggesting rel
 ## Tool Description
 Brief overview of what the tool does and its key use cases.
 
-## Developer Information
-Company behind the product, community support, update cycle.
-
-## Primary Purpose
-DevOps tasks the tool helps with (CI/CD, infrastructure as code, testing, etc.).
+Developer Information: Company behind the product, community support, update cycle.
+Primary Purpose: DevOps tasks the tool helps with (CI/CD, infrastructure as code, testing, etc.).
 
 # Core Features
-## Main Functionality
+**Main Functionality:**
 - Key capabilities (e.g., metadata management, pipeline automation).
 - Supported integrations (GitHub, Jira, etc.).
 - Unique practices (e.g., Git strategy, templates, release management).
 
-## Architecture
-### Delivery Format
-How the tool is delivered (e.g., managed package, SaaS, hybrid).
+**Architecture:**
+- **Delivery Format**:  
+  How the tool is delivered (e.g., managed package, SaaS, hybrid).
 
-### Infrastructure
-Where core logic resides (e.g., Salesforce platform, cloud services).
+- **Infrastructure**:  
+  Where core logic resides (e.g., Salesforce platform, cloud services).
 
-### Licensing
-Licensing model and what it includes (user/org-based, feature access tiers).
+- **Licensing**:
+  Licensing model and what it includes (user/org-based, feature access tiers).
 
 # Comparative Characteristics
 ## Deployment & CI/CD
@@ -73,53 +70,53 @@ Support for Slack/email/etc. notifications.
 Monitoring tools and visualization of pipeline status.
 
 ## Static Code Analysis (SCA)
-### Integration with SCA Tools
+### Integration with Popular SCA tools (PMD, CodeScan, SonarQube)
 Supported tools (e.g., PMD, CodeScan, SonarQube) and level of integration.
 
-# Usability
-## UX for Admins/Consultants
+## Usability
+### UX for Admins/Consultants
 Ease of use for non-developers, UI, templates, no-code interaction.
 
-## UX for Developers
+### UX for Developers
 Developer experience, UI vs. CLI, compatibility with IDEs.
 
-## Change Tracking & History
+### Change Tracking & History
 Git history, limitations due to fixed strategies.
 
-## Flexibility in CI/CD Pipeline Configuration
+### Flexibility in CI/CD Pipeline Configuration
 Customization options, scripting, conditions.
 
-## Mandatory Developer Interaction with UI
+### Mandatory Developer Interaction with UI
 Extent to which UI is required; availability of headless automation.
 
-# Parallel Development & Releases
-## Synchronization of Parallel Releases
+## Parallel Development & Releases
+### Synchronization of Parallel Releases
 Support for parallel streams, back-promotion tools.
 
-## Ease of Back Promotion/Merges
+### Ease of Back Promotion/Merges
 Merge capabilities between branches and environments.
 
-# Process & Integrations
-## Ease of Version Control Integration
+## Process & Integrations
+### Ease of Version Control Integration
 Setup and stability with Git platforms.
 
-## Integration with ALM Tools
+### Integration with Jira and other ALM tools
 Jira integration, others, and limitations.
 
-## Deployment KPI Monitoring & Reporting
+### Deployment KPI Monitoring & Reporting
 Built-in reporting tools and dashboards.
 
-## Salesforce Org Change Monitoring
+### Salesforce Org Change Monitoring
 Comparison tools and deployment visibility.
 
-## Org and Data Backup Solutions
+### Org and Data Backup Solutions
 Support for metadata and data backup, external tools.
 
-# Implementation & Pricing
-## Ease of Implementation & Onboarding
+## Implementation & Pricing
+### Ease of Implementation & Onboarding
 Timeframe, training materials, academy availability.
 
-## Licensing Model & Limitations
+### Licensing Model & Limitations
 Pricing structure, optional modules, trials.
 
 # Key Advantages and Disadvantages
