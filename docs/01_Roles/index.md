@@ -7,13 +7,13 @@ tags: [Roles, Comparison, role, FAQ]
 # Delivery Manager and DevOps on a Salesforce Project
 
 ## Salesforce
-Salesforce is a PaaS (Platform as a Service) solution. It provides a comprehensive suite of cloud-based applications designed to help businesses manage customer relationships, sales, and marketing more efficiently. As a PaaS platform, Salesforce offers a scalable and flexible solution that can be accessed from anywhere with an internet connection, eliminating the need for local installation and maintenance. This model allows businesses of all sizes to utilize advanced technology and infrastructure without significant upfront investment. Salesforce's services are continuously updated, ensuring that users have access to the latest features and security enhancements.
+Salesforce is a SaaS/PaaS (Software as a Service / Platform as a Service) solution. It primarily delivers ready-to-use CRM and business applications as SaaS, while also offering a powerful PaaS environment for developers to build and customize applications. Through its comprehensive suite of cloud-based tools, Salesforce helps businesses manage customer relationships, sales, and marketing more efficiently. As a SaaS platform, it provides scalable and flexible access from anywhere with an internet connection, eliminating the need for local installation and maintenance. This model enables organizations of all sizes to leverage advanced technology and infrastructure without significant upfront investment. Moreover, Salesforce services are continuously updated, ensuring users benefit from the latest features and security enhancements.
 
 ![](./assets/IaaS-vs-PaaS-vs-SaaS-Diagram.webp)
 
 ## Delivery Manager and DevOps Specialist
 
-Salesforce is a PaaS solution, and due to its nature, on smaller projects, the roles of Release Managers, DevOps specialists, or Delivery Managers may be merged to optimize resources and simplify processes. When an effective and resilient CI/CD infrastructure is established, combining these roles can lead to increased operational efficiency and project management effectiveness.
+Salesforce is a SaaS/PaaS solution, and due to its nature, on smaller projects, the roles of Release Managers, DevOps specialists, or Delivery Managers may be merged to optimize resources and simplify processes. When an effective and resilient CI/CD infrastructure is established, combining these roles can lead to increased operational efficiency and project management effectiveness.
 
 ### Key Advantages of Role Consolidation
 
