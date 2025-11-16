@@ -200,7 +200,7 @@ Thanks to its SaaS nature, thoughtful UI, templates, and high-quality training r
 However, several considerations should be taken into account: pipeline configuration and administration are done through the UI; the compare-and-deploy model adds overhead on large metadata estates; pricing depends on the modules selected (e.g., Backup).
 
 # Resources
-Official documentation: [link](https://docs.gearset.com/)
-Training: [link](https://devopslaunchpad.com/)
-YouTube: [link](https://youtube.com/@gearsethq?si=dcFGAPYQTiG_NtWK)
+Official documentation: [link](https://docs.gearset.com/)<br/>
+Training: [link](https://devopslaunchpad.com/)<br/>
+YouTube: [link](https://youtube.com/@gearsethq?si=dcFGAPYQTiG_NtWK)<br/>
 Blog: [link](https://gearset.com/blog/)
