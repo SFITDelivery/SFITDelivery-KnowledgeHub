@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Unlocked Packages 
-tags: [Managment, Deployment, Unlocked Packages]
+tags: [Practices_and_Processes, Deployment, Unlocked Packages]
 ---
 
 *Unlocked Packages** are a type of package in Salesforce designed to enhance flexibility and modularity in application deployment. Unlike traditional deployment methods, **unlocked packages** support versioning, modularity, and simplified dependency management. These packages are especially valuable for large projects and organizations with distributed environments where automation and version control are essential.

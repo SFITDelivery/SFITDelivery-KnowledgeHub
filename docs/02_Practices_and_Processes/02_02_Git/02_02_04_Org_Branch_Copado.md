@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Copado Branching Strategy
-tags: [Managment, Git, Copado]
+tags: [Practices_and_Processes, Git, Copado]
 ---
 
 **Copado Branching Strategy** is recognized as an independent strategy due to its unique approach to building a Git strategy. This strategy is part of the change delivery process using the Copado tool. It involves the use of separate branches for each user story or feature and supports regular back-promotion to synchronize changes between branches.

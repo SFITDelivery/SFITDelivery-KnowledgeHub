@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Gearset
-tags: [Tools, Gearset]
+tags: [DevOpsTools, Gearset]
 ---
 
 :::info

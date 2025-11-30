@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Deployment Options for Metadata
-tags: [Managment, Deployment, Metadata]
+tags: [Practices_and_Processes, Deployment, Metadata]
 ---
 
 The efficiency of delivering changes directly depends on the choice of code deployment methods to different environments. An incorrect choice can lead to excessive time and resource expenditures, slowing down the process, reducing efficiency, and increasing development costs.

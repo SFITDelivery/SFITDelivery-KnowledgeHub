@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Release on Demand
-tags: [Managment, Delivery, Releases]
+tags: [Practices_and_Processes, Delivery, Releases]
 ---
 
 ### What is Release on Demand?

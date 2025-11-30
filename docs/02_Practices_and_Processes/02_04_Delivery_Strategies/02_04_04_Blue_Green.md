@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Blue-Green
-tags: [Managment, Change]
+tags: [Practices_and_Processes, Change]
 ---
 **Blue-Green Deployment** is a deployment and change management strategy in which two identical environments are maintained simultaneously: **Blue (current production environment)** and **Green (new application version)**. Users interact with the Blue environment, while the Green environment is prepared for updates. After successful testing and verification, traffic is switched to the Green environment, which then becomes the new primary production environment.
 

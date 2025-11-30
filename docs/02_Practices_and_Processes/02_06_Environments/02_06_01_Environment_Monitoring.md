@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Environment Monitoring
-tags: [Managment, Environment, Monitoring]
+tags: [Practices_and_Processes, Environment, Monitoring]
 ---
 Salesforce is a cloud-based CRM platform that underpins business-critical processes: sales automation, customer service, integration with external systems, and analytics. All of this operates within a distributed architecture and platform constraints — including resource limits, security, data, and code.
 

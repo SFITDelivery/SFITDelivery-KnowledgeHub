@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Feature Branch
-tags: [Managment, Git]
+tags: [Practices_and_Processes, Git]
 ---
 
 The Feature Branch strategy is an approach to branch management in version control systems where each new feature is developed in a separate branch originating from the main development branch (main, int, dev). This allows changes to be isolated and minimizes risks associated with integration. 

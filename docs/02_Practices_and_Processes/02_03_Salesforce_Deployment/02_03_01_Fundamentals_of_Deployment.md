@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Fundamentals of Deployment in Salesforce
-tags: [Managment, Deployment, Base]
+tags: [Practices_and_Processes, Deployment, Base]
 ---
 
 Deployment is an essential stage in the Software Development Lifecycle (SDLC), ensuring the delivery of a finished product to users. This process includes code transfer and environment setup and can be performed manually or automatically. A well-structured deployment process helps avoid errors, minimize implementation time, and ensure system stability.

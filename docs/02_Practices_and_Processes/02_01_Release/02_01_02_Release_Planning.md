@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Release Planning
-tags: [Managment, Release]
+tags: [Practices_and_Processes, Release]
 ---
 
 Release planning is a critically important stage in managing any IT project. The quality of release planning determines the success of implementing changes, the stability of the system, and user satisfaction.

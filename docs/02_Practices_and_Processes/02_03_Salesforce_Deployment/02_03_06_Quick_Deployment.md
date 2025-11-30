@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Quick Deploy
-tags: [Managment, Deployment]
+tags: [Practices_and_Processes, Deployment]
 ---
 
 **Quick Deploy** is a Salesforce feature that speeds up the deployment process if validation with necessary test (unit tests) execution has been successfully completed beforehand. Quick Deploy is useful in situations where deployment needs to be performed at a specific time, minimizing the cost of re-testing, as testing was completed during validation. This method enables preparation for deployment in advance by validating changes, allowing deployment within a specific time window (e.g., to minimize business disruption or synchronize deployment with other events).

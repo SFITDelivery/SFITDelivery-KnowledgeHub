@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Destructive Change
-tags: [Managment, Deployment, Destructive Change]
+tags: [Practices_and_Processes, Deployment, Destructive Change]
 ---
 
 **Destructive Changes** refer to the process of removing outdated metadata (such as fields, objects, classes, pages, and other components) that are no longer needed in the target environment. This is important for maintaining system cleanliness and improving performance, as it helps eliminate unused or outdated components.

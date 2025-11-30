@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Incremental Releases
-tags: [Managment, Relese]
+tags: [Practices_and_Processes, Relese]
 ---
 An **incremental release** is a software development and deployment strategy in which updates and improvements are delivered in small, manageable increments rather than large, monolithic releases. This approach increases flexibility, minimizes risks, and speeds up user feedback. An incremental release is particularly well-suited for agile development methodologies like Scrum or Kanban, where projects progress through successive releases that add new features or improvements.
 

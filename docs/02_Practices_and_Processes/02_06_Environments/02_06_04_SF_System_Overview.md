@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: System Overview
-tags: [Managment, Environment, Monitoring]
+tags: [Practices_and_Processes, Environment, Monitoring]
 ---
 Salesforce operates in the cloud and uses distributed computing, which imposes restrictions on resource consumption. Efficient management of system resources in solutions like Salesforce is critically important. Without resource management, system stability will eventually be compromised, leading to critical errors that can have serious consequences for the business.
 

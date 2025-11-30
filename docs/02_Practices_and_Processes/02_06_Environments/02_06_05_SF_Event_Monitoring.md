@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Event Monitoring
-tags: [Managment, Environment, Monitoring]
+tags: [Practices_and_Processes, Environment, Monitoring]
 ---
 Salesforce handles vast amounts of data and user activity, making it crucial to understand **what's happening within the system**. Without proper oversight, administrators might overlook critical incidents, such as:
 

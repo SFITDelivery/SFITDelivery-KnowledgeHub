@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: Batch Size
-tags: [Managment, Relese]
+tags: [Practices_and_Processes, Relese]
 ---
 In modern change management, whether delivering new features or updates, the concept of **Batch Size** plays a crucial role. Batch Size is one of the key factors affecting the efficiency of the development and delivery process. It is essential to understand that Batch Size influences not only the speed of change delivery but also system stability and the overall costs incurred by a company.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 title: Test Coverage Matrix
-tags: [Managment, Deployment, Tests]
+tags: [Practices_and_Processes, Deployment, Tests]
 ---
 
 The **Test Coverage Matrix** is a tool that tracks the relationship between test classes and the classes they cover, along with additional information such as coverage percentage, the date of the last test run, and comments. It is a vital tool for managing code quality, providing simplified access to test coverage data, and enabling change tracking.

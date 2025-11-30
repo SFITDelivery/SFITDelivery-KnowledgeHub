@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: A/B Testing
-tags: [Managment, Change, Tests]
+tags: [Practices_and_Processes, Change, Tests]
 ---
 **A/B testing** is a method of comparing two or more versions of a feature to evaluate their effectiveness. The goal of A/B testing is to determine which version better achieves set objectives, such as performance, user experience, or conversion rates. It also helps identify factors that influence user behavior.
 

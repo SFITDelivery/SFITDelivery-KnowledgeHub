@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: Types of Packages in Salesforce
-tags: [Managment, Deployment, Unlocked]
+tags: [Practices_and_Processes, Deployment, Unlocked]
 ---
 
 **Unlocked Package** — used for modular development, allowing developers to update, modify, and version packages for dependency management. Frequently utilized for internal development, it supports full CI/CD automation and enables a flexible approach to delivering solutions to users.

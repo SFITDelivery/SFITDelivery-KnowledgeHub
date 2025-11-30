@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Fundamentals of Delivery Strategies
-tags: [Managment, Delivery, Base]
+tags: [Practices_and_Processes, Delivery, Base]
 ---
 In modern change management, the key task is to minimize risks when deploying new features while ensuring system stability. Deployment methods such as [Big Bang](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_05_Big_Bang.md), [Phased Rollouts](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_02_Phased_Rollouts.md), [Dark Launches](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_03_Dark_Launches.md), [Blue-Green Deployment](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_04_Blue_Green.md), and [A/B Testing](docs/02_Practices_and_Processes/02_04_Delivery_Strategies/02_04_06_A_B_Testing.md) allow for a flexible approach to implementing changes depending on the context and business goals.
 

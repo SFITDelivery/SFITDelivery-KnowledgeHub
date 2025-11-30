@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Data Backup
-tags: [Managment, Environment, Backup]
+tags: [Practices_and_Processes, Environment, Backup]
 ---
 Failure to perform regular data backups in Salesforce can lead to serious problems. Since business-critical data is stored in the cloud, any loss or corruption of that data can cause significant damage to an organization. The main risks of not having data backup include:
 - **Mass deletion of records** – administrator errors, accidental or intentional deletions.

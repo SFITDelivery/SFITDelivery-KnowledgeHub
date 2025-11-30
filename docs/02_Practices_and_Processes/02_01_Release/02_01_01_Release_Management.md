@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Release Management
-tags: [Managment, Release]
+tags: [Practices_and_Processes, Release]
 ---
 
 In today’s environment, businesses demand flexibility, speed, and precision from IT departments when implementing new features and updates. Release management is the process aimed at ensuring the stability and quality of deployed changes.

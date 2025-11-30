@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Health Check
-tags: [Managment, Environment, Monitoring]
+tags: [Practices_and_Processes, Environment, Monitoring]
 ---
 Salesforce stores critical business data, making the security of the environment a top priority. Misconfigurations in security settings or data access and privacy policies can lead to serious consequences, such as:
 - Leakage or compromise of sensitive data.    

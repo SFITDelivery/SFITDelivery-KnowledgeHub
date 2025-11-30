@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: Apex Exception Email
-tags: [Managment, Environment, Backup]
+tags: [Practices_and_Processes, Environment, Backup]
 ---
 When developing applications and automation on the Salesforce platform using Apex, there may be situations where the code executes incorrectly, causing errors or failures. Such issues can go unnoticed, affecting business stability. 
 

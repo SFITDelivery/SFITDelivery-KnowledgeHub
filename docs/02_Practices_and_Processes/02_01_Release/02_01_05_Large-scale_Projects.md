@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Large-scale Projects
-tags: [Managment, Delivery, Releases]
+tags: [Practices_and_Processes, Delivery, Releases]
 ---
 
 Release management in large projects, which involve multiple teams and/or organizations, is a significant challenge. The success of implementing changes, system stability, and user satisfaction depends on proper coordination and management. Release management in such projects must include distinctive strategies and approaches to minimize risks and ensure the alignment of all participants' actions.

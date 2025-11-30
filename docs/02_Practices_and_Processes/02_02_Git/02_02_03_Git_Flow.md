@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Git Flow
-tags: [Managment, Git, Releases]
+tags: [Practices_and_Processes, Git, Releases]
 ---
 
 Git Flow is a popular branching strategy in Git, developed by Vincent Driessen [link](https://nvie.com/posts/a-successful-git-branching-model), for a structured development process. The main branches are `main` for production code and `develop` for integrating new features. Feature branches are created from `develop` and merged back after completion. Release branches prepare releases, merging into both `main` and `develop`. Hotfix branches are for urgent production code fixes and also merge into both main branches. This strategy supports parallel development, simplifies large project management, and minimizes conflicts.

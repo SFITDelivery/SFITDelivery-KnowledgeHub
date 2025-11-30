@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Parallel Releases
-tags: [Managment, Git, Releases]
+tags: [Practices_and_Processes, Git, Releases]
 ---
 
 The Parallel Release Git strategy allows managing multiple versions of a product simultaneously. Separate release branches (`release-x.x`) are created for each release, enabling the preparation and testing of different product versions in parallel. Feature branches can be created from `release-x.x` branches, which serve as `develop` branches for the corresponding releases. This approach helps isolate changes and manage multiple product versions simultaneously, which is especially useful for projects with long development cycles and support for older versions. However, it requires strict branch management and synchronization of changes. An important feature is the designation of major and minor releases for their sequential synchronization.

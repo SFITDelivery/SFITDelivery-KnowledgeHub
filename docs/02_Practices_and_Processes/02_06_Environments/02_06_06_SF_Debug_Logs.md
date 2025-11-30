@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Debug Logs
-tags: [Managment, Environment, Monitoring]
+tags: [Practices_and_Processes, Environment, Monitoring]
 ---
 Salesforce extensively utilizes process automation built on triggers and Apex classes, as well as Flow and Workflow Rules. Automation is a key element of CRM, significantly improving business process efficiency, minimizing manual work, and reducing the likelihood of errors.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: Org Branch
-tags: [Managment, Git, Releases]
+tags: [Practices_and_Processes, Git, Releases]
 ---
 
 The **Git Org Branch Strategy**, where each branch corresponds to a specific environment (e.g., development, UAT, staging, production), is a useful concept for managing changes and deployments in corporate and large projects. This strategy is common in Salesforce projects due to licensing policies and environment setups that may not allow for full testing environments and limited use of Infrastructure as Code (IaC) approaches.

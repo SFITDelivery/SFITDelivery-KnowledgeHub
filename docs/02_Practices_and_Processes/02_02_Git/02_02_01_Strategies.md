@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Git Strategies
-tags: [Managment, Git, Comparison]
+tags: [Practices_and_Processes, Git, Comparison]
 ---
 
 **Git is becoming an essential part of Salesforce projects, although some projects still rely on changesets for delivery.**

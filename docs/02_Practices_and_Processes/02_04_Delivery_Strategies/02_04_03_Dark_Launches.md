@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Dark Launches
-tags: [Managment, Change]
+tags: [Practices_and_Processes, Change]
 ---
 **Dark Launches** are a method of deploying new features into production while keeping them hidden from most users until the official release. The main goal is to deploy the functionality in a real-world environment to test its performance, stability, and integration with existing systems without impacting end users.
 

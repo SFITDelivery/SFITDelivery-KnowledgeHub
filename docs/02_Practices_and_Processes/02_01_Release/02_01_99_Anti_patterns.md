@@ -1,7 +1,7 @@
 ---
 sidebar_position: 99
 title: Anti-patterns 
-tags: [Managment, Release, Anti-patterns]
+tags: [Practices_and_Processes, Release, Anti-patterns]
 ---
 
 1. **Lack of Unified Release Planning**: Teams plan and execute releases independently without a unified roadmap or coordination.

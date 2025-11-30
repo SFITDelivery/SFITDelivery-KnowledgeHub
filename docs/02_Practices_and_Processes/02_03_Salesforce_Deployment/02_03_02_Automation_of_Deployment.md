@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Automation of Deployment
-tags: [Managment, Deployment, Automation]
+tags: [Practices_and_Processes, Deployment, Automation]
 ---
 Deployment automation plays a critical role in modern approaches to software development and deployment, including platforms like Salesforce. It helps eliminate issues such as errors, delays, and inconsistencies between environments, thereby improving the development lifecycle and boosting team efficiency. A lack of automation can lead to a deteriorating work environment, increased costs, and reduced team productivity.
 <!-- TODO: link to the maturity matrix -->

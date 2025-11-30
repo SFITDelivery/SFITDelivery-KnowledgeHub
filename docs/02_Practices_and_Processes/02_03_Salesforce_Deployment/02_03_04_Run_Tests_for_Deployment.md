@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Run Tests for Deployment
-tags: [Managment, Deployment, Tests]
+tags: [Practices_and_Processes, Deployment, Tests]
 ---
 
 Effective testing is crucial to ensuring the quality of deployed changes. Choosing the right approach for test execution helps optimize time and resource costs while minimizing risks associated with potential errors. This article examines two main approaches to test execution during deployment: running all tests (RunLocalTests) and running specific tests (RunSpecifiedTests). Each approach has its advantages and disadvantages, and the choice depends on the project’s current goals and CI/CD strategy.

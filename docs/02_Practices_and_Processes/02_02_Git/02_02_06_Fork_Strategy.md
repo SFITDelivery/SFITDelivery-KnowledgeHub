@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Git Fork Strategy
-tags: [Managment, Git, Fork]
+tags: [Practices_and_Processes, Git, Fork]
 ---
 
 The Fork Git Strategy is an approach to repository and branch management primarily used in open-source projects but can also be effectively applied in corporate projects. This strategy allows developers to work on a project without having direct access to the main repository. Instead, they create their own copies (forks) of the main repository and make changes to them. The Fork Git Strategy provides an excellent solution for isolating changes, enhancing security, and ensuring code quality, but it requires careful organization and management, especially in a corporate environment. This strategy is effective for projects with a large number of contributors and external contractors.

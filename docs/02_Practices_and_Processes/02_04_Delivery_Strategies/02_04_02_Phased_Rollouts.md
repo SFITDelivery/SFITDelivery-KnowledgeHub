@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Phased Rollouts
-tags: [Managment, Change]
+tags: [Practices_and_Processes, Change]
 ---
 **Phased Rollouts**, or phased deployment, is a general term that describes strategies for implementing changes through gradual scaling. In this approach, new features or updates are introduced to specific groups of users or environments to minimize risks and manage workload effectively.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: DevSecOps Maturity Matrix
-tags: [Managment, Project, Maturity]
+tags: [Practices_and_Processes, Project, Maturity]
 ---
 Every growing development company sooner or later encounters the need to implement DevSecOps practices.
 Typically, the first elements implemented are CI/CD and data backup. Often, developers are made responsible for implementing and maintaining these practices, even though this is not their core responsibility. Current DevSecOps tasks are also frequently addressed without a strategic roadmap and often without a deep understanding of their necessity.

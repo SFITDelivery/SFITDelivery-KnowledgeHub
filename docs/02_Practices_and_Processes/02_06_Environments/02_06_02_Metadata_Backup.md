@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Metadata Backup
-tags: [Managment, Environment, Backup]
+tags: [Practices_and_Processes, Environment, Backup]
 ---
 The absence of regular metadata backups can lead to serious consequences. If the system is damaged due to human error, a failed release, or an incorrect update, restoring it to a functional state can be difficult or even impossible without a backup. The loss of critical configuration data, such as object settings, business logic, or security rules, can significantly disrupt an entire company and result in substantial reputational and financial losses.
 
