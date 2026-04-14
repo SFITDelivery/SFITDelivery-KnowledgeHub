@@ -22,7 +22,7 @@ We value each contribution and strive to incorporate them in a way that benefits
 ## Getting Started
 To get started with this knowledge hub:
 
-- Visit our [Documentation Website](https://sfitdelivery.github.io/SFITDelivery-KnowledgeHub/).
+- Visit our [Documentation Website](https://sfdevops.info/).
 - Explore the categories and find the resources you need.
 - Follow the instructions to contribute.
 
