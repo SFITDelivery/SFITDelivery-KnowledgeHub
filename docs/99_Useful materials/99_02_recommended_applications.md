@@ -12,8 +12,6 @@ Workbench (multifunctional solutions for working with environments) - [link](ht
 
 Perm-comparator (Compare [Salesforce.com](http://salesforce.com/) Users, Profiles, and Permission Sets) - [link](https://perm-comparator.herokuapp.com/)
 
-  
-
 Multi-highlight (for chrome) - [link](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji)
 
 Grammarly (for chrome) - [link](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)

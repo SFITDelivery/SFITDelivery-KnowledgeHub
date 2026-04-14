@@ -13,13 +13,10 @@ const config = {
   favicon: 'img/favicon.ico',
   plugins: [require.resolve('docusaurus-lunr-search')],
 
-  // Set the production url of your site here
-  // - url: 'https://your-docusaurus-site.example.com',
-  url: 'https://sfitdelivery.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  // - baseUrl: '/',
-  baseUrl: '/SFITDelivery-KnowledgeHub/',
+  // Production URL (custom domain). Trailing slash is omitted per Docusaurus convention.
+  url: 'https://sfdevops.info',
+  // Site is served at the domain root (not /repo-name/).
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -44,17 +41,13 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/tree/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',

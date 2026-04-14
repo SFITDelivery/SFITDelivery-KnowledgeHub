@@ -5,7 +5,7 @@ authors: [d2269]
 tags: [DevOps, DM, Update]
 ---
 
-Basic articles have been added to the [deployment management section](/docs/category/deployment/salesforce-deployment).  
+Basic articles have been added to the [deployment management section](/docs/category/salesforce-deployment).  
 In this section, you will find materials that will help optimize deployment processes, and improve system stability.
 
 The section includes articles on the following key topics:
