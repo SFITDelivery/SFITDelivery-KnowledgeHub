@@ -7,7 +7,7 @@ const FeatureList = [
   {
     title: 'Roles',
     Svg: require('@site/static/img/Roles_1.svg').default,
-    to: '/docs/01_Roles/',
+    to: '/docs/Roles/',
     description: (
       <>
         Description of the roles of DevOps / Delivery Manager. The tasks they solve. 

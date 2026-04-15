@@ -49,7 +49,7 @@ Selecting Source and Target for Comparison:
 
 # Comparative Characteristics
 The following parameters are used to assess all third-party tools reviewed on this portal.
-For a comparison of tools, see the summary article on third-party tools. [Comparison of Tools](./02_10_Third-party_Solutions/02_10_01_Comparison_of_Tools.md)
+For a comparison of tools, see the summary article on third-party tools. [Comparison of Tools](./02_10_01_Comparison_of_Tools.md)
 <!-- TODO: check link -->
 
 ## Deployment & CI/CD

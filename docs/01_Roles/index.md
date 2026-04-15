@@ -40,7 +40,7 @@ Service Delivery Manager - focuses on long-term service and customer relationshi
 
 ## About This Section of the Hub
 The description of roles is divided into separate sections:
-- [Role: DevOps Specialist](01_01_DevOps/index.md)
-- [Role: Delivery Manager](01_02_Delivery_Manager/index.md)
+- [Role: DevOps Specialist](./01_01_DevOps/index.md)
+- [Role: Delivery Manager](./01_02_Delivery_Manager/index.md)
 
 The **Management section** is combined to simplify navigation and so that each company and project can independently define the necessary areas of influence for specialists.
