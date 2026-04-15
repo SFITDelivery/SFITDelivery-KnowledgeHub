@@ -11,13 +11,15 @@ Our mission is to create a centralized, community-driven repository that empower
 - **Community Contributions**: Contributions from experts and practitioners in the field, enriching the repository with diverse perspectives and innovative solutions.
 
 ## Contributing
-We strongly encourage community contributions! Whether you're offering a code snippet, an article on best practices, or any other valuable insight, your input is highly appreciated. To contribute:
+We strongly encourage community contributions.
+Please read the full contribution guide before opening a pull request:
+- [Contributing Guide](./.github/CONTRIBUTING.md)
 
-1. **Fork the Repository**: Make a copy of this repository to your GitHub account.
-2. **Make Your Changes**: Add or modify content in your forked repository.
-3. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request for review.
-
-We value each contribution and strive to incorporate them in a way that benefits all users.
+Basic flow:
+1. Fork the repository
+2. Create a branch
+3. Make your changes
+4. Submit a pull request
 
 ## Getting Started
 To get started with this knowledge hub:

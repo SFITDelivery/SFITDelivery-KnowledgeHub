@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution Guide
+    url: https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/blob/main/.github/CONTRIBUTING.md
+    about: Read the contribution workflow and content guidelines before opening an issue.
+  - name: Knowledge Hub Project Board
+    url: https://github.com/users/SFITDelivery/projects/1
+    about: Review planned and in-progress topics before proposing a new article.

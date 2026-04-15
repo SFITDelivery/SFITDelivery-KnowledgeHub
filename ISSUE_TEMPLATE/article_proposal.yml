@@ -1,0 +1,56 @@
+name: Article or topic proposal
+description: Suggest a new article, guide, or knowledge base improvement
+title: "[Proposal]: "
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing a topic or content improvement.
+
+  - type: textarea
+    id: topic
+    attributes:
+      label: Proposed topic
+      description: What article, guide, or content change would you like to suggest?
+      placeholder: Describe the proposed topic.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Why this would be useful
+      description: Explain the problem, gap, or user need this would address.
+    validations:
+      required: true
+
+  - type: textarea
+    id: outline
+    attributes:
+      label: Suggested outline or scope
+      description: Add a rough structure, key sections, or boundaries if you have them.
+
+  - type: input
+    id: related
+    attributes:
+      label: Related issue, discussion, or backlog item
+      description: Add a link if this relates to an existing issue or project item.
+      placeholder: https://github.com/...
+
+  - type: dropdown
+    id: contribution
+    attributes:
+      label: Would you like to work on this?
+      options:
+        - Yes, I would like to contribute it
+        - Maybe, with maintainer guidance
+        - No, I am only suggesting the idea
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add links, references, examples, or notes.
