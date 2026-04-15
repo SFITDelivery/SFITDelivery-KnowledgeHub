@@ -2,11 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sfdevops.info/blog</id>
     <title>Salesforce: DevOps and Delivery Management Blog</title>
-    <updated>2025-04-05T00:00:00.000Z</updated>
+    <updated>2026-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sfdevops.info/blog"/>
     <subtitle>Salesforce: DevOps and Delivery Management Blog</subtitle>
     <icon>https://sfdevops.info/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SFITDelivery Knowledge Hub Is Live]]></title>
+        <id>https://sfdevops.info/blog/hub_is_now_live</id>
+        <link href="https://sfdevops.info/blog/hub_is_now_live"/>
+        <updated>2026-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The SFITDelivery Knowledge Hub is now live at sfdevops.info and fully open source on GitHub.]]></summary>
+        <content type="html"><![CDATA[<p>The <strong>SFITDelivery Knowledge Hub</strong> is now live at <a href="https://sfdevops.info/" target="_blank" rel="noopener noreferrer">sfdevops.info</a> and fully open source on <a href="https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+<p>This launch turns nearly four years of notes, templates, and delivery lessons into a public knowledge base for Salesforce teams. The goal is simple: make practical DevOps and Delivery Management guidance easier to find, reuse, and improve. Too many teams still rebuild the same release process, branching model, deployment checklist, and environment controls from scratch. This hub is meant to help with that.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-you-can-read-today">What You Can Read Today<a href="https://sfdevops.info/blog/hub_is_now_live#what-you-can-read-today" class="hash-link" aria-label="Direct link to What You Can Read Today" title="Direct link to What You Can Read Today">​</a></h2>
+<p>The site already includes practical content across the core areas of Salesforce delivery:</p>
+<ul>
+<li><strong>Roles and responsibilities</strong> for DevOps specialists and Delivery Managers</li>
+<li><strong>Git strategies</strong> for Salesforce teams, including Trunk-Based Development, Git Flow, Org Branch, parallel releases, feature branches, and hotfix paths</li>
+<li><strong>Release management</strong> topics such as planning, release on demand, incremental releases, large-scale delivery, and anti-patterns</li>
+<li><strong>Salesforce deployment</strong> fundamentals, metadata delivery options, test execution, destructive changes, Quick Deploy, and packages</li>
+<li><strong>Delivery strategies</strong> such as phased rollouts, dark launches, blue-green deployment, big bang, and A/B testing</li>
+<li><strong>Environment management</strong> and operational controls, including monitoring, backups, debug logs, Event Monitoring, and Security Health Check</li>
+<li><strong>Tooling guidance</strong> comparing platforms such as Copado, Gearset, and Salesforce DevOps Center</li>
+</ul>
+<p>The strongest content today is intentionally practical and Salesforce-specific: branching, release process, deployment, environments, and operational reliability. This is not generic DevOps advice rewritten for a different platform. It is focused on the decisions Salesforce delivery teams actually make.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-comes-next">What Comes Next<a href="https://sfdevops.info/blog/hub_is_now_live#what-comes-next" class="hash-link" aria-label="Direct link to What Comes Next" title="Direct link to What Comes Next">​</a></h2>
+<p>This is only the first public release. The roadmap continues into Delivery Management, process maturity, prioritization, quality control, audit, automation, and AI-assisted workflows for Salesforce teams.</p>
+<p>You can follow planned and upcoming content on the <a href="https://github.com/users/SFITDelivery/projects/1" target="_blank" rel="noopener noreferrer">Knowledge Hub Content Board</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="who-this-is-for">Who This Is For<a href="https://sfdevops.info/blog/hub_is_now_live#who-this-is-for" class="hash-link" aria-label="Direct link to Who This Is For" title="Direct link to Who This Is For">​</a></h2>
+<p>If you work in Salesforce delivery as a DevOps engineer, Delivery Manager, release manager, architect, admin, or tech lead, this project is for you.</p>
+<p>Start with the <a href="https://sfdevops.info/docs/intro">introduction</a>, explore the sections that match your current challenge, and use the repository as a practical reference point for building better delivery processes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="contribute">Contribute<a href="https://sfdevops.info/blog/hub_is_now_live#contribute" class="hash-link" aria-label="Direct link to Contribute" title="Direct link to Contribute">​</a></h2>
+<p>This is a living knowledge base, not a finished book. If you have a better branching model, a stronger rollout checklist, a deployment edge case, or a lesson learned from a real project, contributions are welcome.</p>
+<p>Open an issue, suggest an article, submit a pull request, or share the hub with your team. The more practical experience we can capture, the more useful this project becomes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="meet-in-berlin">Meet in Berlin<a href="https://sfdevops.info/blog/hub_is_now_live#meet-in-berlin" class="hash-link" aria-label="Direct link to Meet in Berlin" title="Direct link to Meet in Berlin">​</a></h2>
+<p>If you'll be in Berlin on May 8, 2026, I'll also be speaking at <a href="https://wirsindohana.de/agenda/" target="_blank" rel="noopener noreferrer">Wir sind Ohana</a> about optimizing releases for Salesforce projects in a session called <em>Small or Large, Often or Rare? How to Optimize Releases</em>. It is closely connected to the same problems this Knowledge Hub is built to solve, so feel free to join the session and say hello.</p>]]></content>
+        <author>
+            <name>Stanislav Dudkov</name>
+            <uri>https://www.linkedin.com/in/stanislavd2269/</uri>
+        </author>
+        <category label="Salesforce" term="Salesforce"/>
+        <category label="DevOps" term="DevOps"/>
+        <category label="Open Source" term="Open Source"/>
+        <category label="Launch" term="Launch"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A section on environment management has been added]]></title>
         <id>https://sfdevops.info/blog/environments_section_added</id>
