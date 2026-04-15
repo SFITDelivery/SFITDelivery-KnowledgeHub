@@ -9,3 +9,19 @@
   height: 200px;
   width: 200px;
 }
+
+.featureCard {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 1rem 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featureCard:hover {
+  color: inherit;
+  text-decoration: none;
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}

@@ -1,11 +1,13 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
     title: 'Roles',
     Svg: require('@site/static/img/Roles_1.svg').default,
+    to: '/docs/01_Roles/',
     description: (
       <>
         Description of the roles of DevOps / Delivery Manager. The tasks they solve. 
@@ -16,6 +18,7 @@ const FeatureList = [
   {
     title: 'Scripts',
     Svg: require('@site/static/img/scripts.svg').default,
+    to: '/docs/intro',
     description: (
       <>
         Assistance in solving tasks that can be addressed with scripts. Automation of delivery processes.
@@ -25,6 +28,7 @@ const FeatureList = [
   {
     title: 'Best Practices',
     Svg: require('@site/static/img/bestpractices.svg').default,
+    to: '/docs/category/practices-and-processes',
     description: (
       <>
         Application of various strategies, metrics, and tools depending on the needs of the project. 
@@ -34,16 +38,18 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, to}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+      <Link to={to} className={styles.featureCard}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
+      </Link>
     </div>
   );
 }
