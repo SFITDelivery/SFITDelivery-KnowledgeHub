@@ -116,7 +116,7 @@ What's New?</p>
         <updated>2024-08-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The portal structure has been modified for easier navigation.]]></summary>
         <content type="html"><![CDATA[<p>The portal structure has been modified for easier navigation.<br>
-<!-- -->Articles on <a href="https://sfdevops.info/docs/Roles/">Roles</a> and <a href="https://sfdevops.info/docs/category/git">Git Management</a>, including descriptions of strategies and comparisons, have been added.
+<!-- -->Articles on <a href="https://sfdevops.info/docs/Roles">Roles</a> and <a href="https://sfdevops.info/docs/category/git">Git Management</a>, including descriptions of strategies and comparisons, have been added.
 Articles on other topics are currently being created.</p>]]></content>
         <author>
             <name>Stanislav Dudkov</name>
