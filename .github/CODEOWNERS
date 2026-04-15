@@ -1,0 +1,6 @@
+# Default owners
+* @SFITDelivery @d2269
+
+# Sensitive repository configuration
+/.github/CODEOWNERS @SFITDelivery
+/.github/workflows/ @SFITDelivery
