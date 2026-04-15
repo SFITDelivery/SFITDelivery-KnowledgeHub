@@ -23,6 +23,8 @@ const config = {
   organizationName: 'SFITDelivery', // Usually your GitHub org/user name.
   projectName: 'SFITDelivery-KnowledgeHub', // Usually your repo name.
 
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -55,6 +57,12 @@ const config = {
         gtag: {
           trackingID: 'G-2RDNHGG4H5',
           anonymizeIP: true,
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
       }),
     ],
