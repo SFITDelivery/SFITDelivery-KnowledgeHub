@@ -16,7 +16,7 @@ I hope this helps you.
 **Note**: The URL is the address of your org. Version restrictions are made to not touch the old versions. You can upgrade the query as you like.
 
 ## Apex script
-[apex script](/scripts/apex/delete_flow.apex)
+[apex script](pathname:///scripts/apex/delete_flow.apex)
 
 ```apex
 String soqlQuery = 'Select ID From Flow Where (Status =  \'Obsolete\' OR Status =  \'Draft\') AND VersionNumber > 1';
@@ -50,7 +50,7 @@ for (String idFlow : ids) {
 ```
 
 ## Bash Script (Using a File):
-[bash script](/scripts/bash/delete_flow.sh)
+[bash script](pathname:///scripts/bash/delete_flow.sh)
 ```bash
 #!/bin/bash
 
