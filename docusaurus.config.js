@@ -54,10 +54,6 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        gtag: {
-          trackingID: 'G-2RDNHGG4H5',
-          anonymizeIP: true,
-        },
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
@@ -136,6 +132,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub',
+              },
+              {
+                label: 'Privacy & Cookies',
+                to: '/privacy',
               },
             ],
           },
