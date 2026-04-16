@@ -44,11 +44,14 @@ function HomepageHeader() {
 
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const homeTitle = 'SFITDelivery Knowledge Hub';
+  const homeDescription =
+    'Open-source knowledge hub for Salesforce DevOps and Delivery Management, covering release management, Git strategies, deployment, environment monitoring, and delivery best practices.';
+
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={homeTitle}
+      description={homeDescription}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
