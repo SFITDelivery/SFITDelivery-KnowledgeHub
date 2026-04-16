@@ -103,8 +103,9 @@ export default function CookieConsentBanner() {
     <div className={styles.banner} role="dialog" aria-live="polite" aria-label="Cookie consent">
       <div className={styles.content}>
         <p className={styles.text}>
-          We use optional analytics cookies to understand which content is useful and improve the
-          Knowledge Hub. Analytics is disabled until you accept. Read more in our{' '}
+          We use optional cookies only for <strong>Google Analytics</strong> to understand which
+          content is useful and improve the Knowledge Hub. We do not use advertising or marketing
+          cookies. Analytics stays disabled until you accept. Read more in our{' '}
           <Link to="/privacy">Privacy & Cookies</Link> page.
         </p>
         <div className={styles.actions}>
