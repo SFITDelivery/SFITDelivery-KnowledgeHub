@@ -29,4 +29,4 @@ To get started with this knowledge hub:
 - Follow the instructions to contribute.
 
 ## Stay Connected
-Join our community to stay updated, share ideas, and collaborate. You can connect with us through [GitHub Discussions](#), [LinkedIn](https://www.linkedin.com/in/stanislavd2269/), or [sfitdelivery@gmail.com](mailto:sfitdelivery@gmail.com).
+Join our community to stay updated, share ideas, and collaborate. You can connect with us through [GitHub Discussions](https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/discussions), [LinkedIn](https://www.linkedin.com/in/stanislavd2269/), or [sfitdelivery@gmail.com](mailto:sfitdelivery@gmail.com).
