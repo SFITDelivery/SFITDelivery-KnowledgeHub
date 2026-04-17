@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Head from '@docusaurus/Head';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -52,6 +53,12 @@ export default function Home() {
     <Layout
       title={homeTitle}
       description={homeDescription}>
+      <Head>
+        <meta property="og:title" content={homeTitle} />
+        <meta property="og:description" content={homeDescription} />
+        <meta name="twitter:title" content={homeTitle} />
+        <meta name="twitter:description" content={homeDescription} />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
