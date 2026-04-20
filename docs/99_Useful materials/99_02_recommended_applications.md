@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Applications
 tags: [Applications, Onboarding]
-sidebar_class_name: disabled-page
+draft: true
 ---
 # Applications
 <!-- TODO: Check and supplement the sources -->

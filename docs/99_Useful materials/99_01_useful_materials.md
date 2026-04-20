@@ -2,7 +2,7 @@
 sidebar_position: 10
 title: Books Videos Materials
 tags: [DevOps, Onboarding, Book, Video, Self-development]
-sidebar_class_name: disabled-page
+draft: true
 ---
 # DevOps: Books Videos Materials
 

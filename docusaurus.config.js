@@ -23,10 +23,15 @@ const config = {
   organizationName: 'SFITDelivery', // Usually your GitHub org/user name.
   projectName: 'SFITDelivery-KnowledgeHub', // Usually your repo name.
 
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -57,7 +62,7 @@ const config = {
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
-          ignorePatterns: ['/tags/**'],
+          ignorePatterns: ['/tags/**', '/docs/tags/**', '/blog/tags/**'],
           filename: 'sitemap.xml',
         },
       }),
