@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksfit_delivery_knowledge_hub=self.webpackChunksfit_delivery_knowledge_hub||[]).push([[8827],{5811:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/update","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

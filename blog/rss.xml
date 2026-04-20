@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Salesforce: DevOps and Delivery Management Blog</title>
-        <link>https://sfdevops.info/blog</link>
+        <link>https://sfdevops.info/blog/</link>
         <description>Salesforce: DevOps and Delivery Management Blog</description>
         <lastBuildDate>Wed, 15 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,35 +10,35 @@
         <language>en</language>
         <item>
             <title><![CDATA[SFITDelivery Knowledge Hub Is Live]]></title>
-            <link>https://sfdevops.info/blog/hub_is_now_live</link>
-            <guid>https://sfdevops.info/blog/hub_is_now_live</guid>
+            <link>https://sfdevops.info/blog/hub_is_now_live/</link>
+            <guid>https://sfdevops.info/blog/hub_is_now_live/</guid>
             <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[The SFITDelivery Knowledge Hub is now live at sfdevops.info and fully open source on GitHub.]]></description>
-            <content:encoded><![CDATA[<p>The <strong>SFITDelivery Knowledge Hub</strong> is now live at <a href="https://sfdevops.info/" target="_blank" rel="noopener noreferrer">sfdevops.info</a> and fully open source on <a href="https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+            <content:encoded><![CDATA[<p>The <strong>SFITDelivery Knowledge Hub</strong> is now live at <a href="https://sfdevops.info/" target="_blank" rel="noopener noreferrer" class="">sfdevops.info</a> and fully open source on <a href="https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub" target="_blank" rel="noopener noreferrer" class="">GitHub</a>.</p>
 <p>This launch turns nearly four years of notes, templates, and delivery lessons into a public knowledge base for Salesforce teams. The goal is simple: make practical DevOps and Delivery Management guidance easier to find, reuse, and improve. Too many teams still rebuild the same release process, branching model, deployment checklist, and environment controls from scratch. This hub is meant to help with that.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-you-can-read-today">What You Can Read Today<a href="https://sfdevops.info/blog/hub_is_now_live#what-you-can-read-today" class="hash-link" aria-label="Direct link to What You Can Read Today" title="Direct link to What You Can Read Today">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-you-can-read-today">What You Can Read Today<a href="https://sfdevops.info/blog/hub_is_now_live/#what-you-can-read-today" class="hash-link" aria-label="Direct link to What You Can Read Today" title="Direct link to What You Can Read Today" translate="no">​</a></h2>
 <p>The site already includes practical content across the core areas of Salesforce delivery:</p>
 <ul>
-<li><strong>Roles and responsibilities</strong> for DevOps specialists and Delivery Managers</li>
-<li><strong>Git strategies</strong> for Salesforce teams, including Trunk-Based Development, Git Flow, Org Branch, parallel releases, feature branches, and hotfix paths</li>
-<li><strong>Release management</strong> topics such as planning, release on demand, incremental releases, large-scale delivery, and anti-patterns</li>
-<li><strong>Salesforce deployment</strong> fundamentals, metadata delivery options, test execution, destructive changes, Quick Deploy, and packages</li>
-<li><strong>Delivery strategies</strong> such as phased rollouts, dark launches, blue-green deployment, big bang, and A/B testing</li>
-<li><strong>Environment management</strong> and operational controls, including monitoring, backups, debug logs, Event Monitoring, and Security Health Check</li>
-<li><strong>Tooling guidance</strong> comparing platforms such as Copado, Gearset, and Salesforce DevOps Center</li>
+<li class=""><strong>Roles and responsibilities</strong> for DevOps specialists and Delivery Managers</li>
+<li class=""><strong>Git strategies</strong> for Salesforce teams, including Trunk-Based Development, Git Flow, Org Branch, parallel releases, feature branches, and hotfix paths</li>
+<li class=""><strong>Release management</strong> topics such as planning, release on demand, incremental releases, large-scale delivery, and anti-patterns</li>
+<li class=""><strong>Salesforce deployment</strong> fundamentals, metadata delivery options, test execution, destructive changes, Quick Deploy, and packages</li>
+<li class=""><strong>Delivery strategies</strong> such as phased rollouts, dark launches, blue-green deployment, big bang, and A/B testing</li>
+<li class=""><strong>Environment management</strong> and operational controls, including monitoring, backups, debug logs, Event Monitoring, and Security Health Check</li>
+<li class=""><strong>Tooling guidance</strong> comparing platforms such as Copado, Gearset, and Salesforce DevOps Center</li>
 </ul>
 <p>The strongest content today is intentionally practical and Salesforce-specific: branching, release process, deployment, environments, and operational reliability. This is not generic DevOps advice rewritten for a different platform. It is focused on the decisions Salesforce delivery teams actually make.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-comes-next">What Comes Next<a href="https://sfdevops.info/blog/hub_is_now_live#what-comes-next" class="hash-link" aria-label="Direct link to What Comes Next" title="Direct link to What Comes Next">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-comes-next">What Comes Next<a href="https://sfdevops.info/blog/hub_is_now_live/#what-comes-next" class="hash-link" aria-label="Direct link to What Comes Next" title="Direct link to What Comes Next" translate="no">​</a></h2>
 <p>This is only the first public release. The roadmap continues into Delivery Management, process maturity, prioritization, quality control, audit, automation, and AI-assisted workflows for Salesforce teams.</p>
-<p>You can follow planned and upcoming content on the <a href="https://github.com/users/SFITDelivery/projects/1" target="_blank" rel="noopener noreferrer">Knowledge Hub Content Board</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="who-this-is-for">Who This Is For<a href="https://sfdevops.info/blog/hub_is_now_live#who-this-is-for" class="hash-link" aria-label="Direct link to Who This Is For" title="Direct link to Who This Is For">​</a></h2>
+<p>You can follow planned and upcoming content on the <a href="https://github.com/users/SFITDelivery/projects/1" target="_blank" rel="noopener noreferrer" class="">Knowledge Hub Content Board</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="who-this-is-for">Who This Is For<a href="https://sfdevops.info/blog/hub_is_now_live/#who-this-is-for" class="hash-link" aria-label="Direct link to Who This Is For" title="Direct link to Who This Is For" translate="no">​</a></h2>
 <p>If you work in Salesforce delivery as a DevOps engineer, Delivery Manager, release manager, architect, admin, or tech lead, this project is for you.</p>
-<p>Start with the <a href="https://sfdevops.info/docs/intro">introduction</a>, explore the sections that match your current challenge, and use the repository as a practical reference point for building better delivery processes.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="contribute">Contribute<a href="https://sfdevops.info/blog/hub_is_now_live#contribute" class="hash-link" aria-label="Direct link to Contribute" title="Direct link to Contribute">​</a></h2>
+<p>Start with the <a class="" href="https://sfdevops.info/docs/intro/">introduction</a>, explore the sections that match your current challenge, and use the repository as a practical reference point for building better delivery processes.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="contribute">Contribute<a href="https://sfdevops.info/blog/hub_is_now_live/#contribute" class="hash-link" aria-label="Direct link to Contribute" title="Direct link to Contribute" translate="no">​</a></h2>
 <p>This is a living knowledge base, not a finished book. If you have a better branching model, a stronger rollout checklist, a deployment edge case, or a lesson learned from a real project, contributions are welcome.</p>
 <p>Open an issue, suggest an article, submit a pull request, or share the hub with your team. The more practical experience we can capture, the more useful this project becomes.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="meet-in-berlin">Meet in Berlin<a href="https://sfdevops.info/blog/hub_is_now_live#meet-in-berlin" class="hash-link" aria-label="Direct link to Meet in Berlin" title="Direct link to Meet in Berlin">​</a></h2>
-<p>If you'll be in Berlin on May 8, 2026, I'll also be speaking at <a href="https://wirsindohana.de/agenda/" target="_blank" rel="noopener noreferrer">Wir sind Ohana</a> about optimizing releases for Salesforce projects in a session called <em>Small or Large, Often or Rare? How to Optimize Releases</em>. It is closely connected to the same problems this Knowledge Hub is built to solve, so feel free to join the session and say hello.</p>]]></content:encoded>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="meet-in-berlin">Meet in Berlin<a href="https://sfdevops.info/blog/hub_is_now_live/#meet-in-berlin" class="hash-link" aria-label="Direct link to Meet in Berlin" title="Direct link to Meet in Berlin" translate="no">​</a></h2>
+<p>If you'll be in Berlin on May 8, 2026, I'll also be speaking at <a href="https://wirsindohana.de/agenda/" target="_blank" rel="noopener noreferrer" class="">Wir sind Ohana</a> about optimizing releases for Salesforce projects in a session called <em>Small or Large, Often or Rare? How to Optimize Releases</em>. It is closely connected to the same problems this Knowledge Hub is built to solve, so feel free to join the session and say hello.</p>]]></content:encoded>
             <category>Salesforce</category>
             <category>DevOps</category>
             <category>Open Source</category>
@@ -46,24 +46,24 @@
         </item>
         <item>
             <title><![CDATA[A section on environment management has been added]]></title>
-            <link>https://sfdevops.info/blog/environments_section_added</link>
-            <guid>https://sfdevops.info/blog/environments_section_added</guid>
+            <link>https://sfdevops.info/blog/environments_section_added/</link>
+            <guid>https://sfdevops.info/blog/environments_section_added/</guid>
             <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Work on an important section dedicated to monitoring and managing Salesforce environments has been completed.]]></description>
-            <content:encoded><![CDATA[<p>Work on an important section dedicated to <a href="https://sfdevops.info/docs/category/enviroments">monitoring and managing Salesforce environments</a> has been completed.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-following-articles-have-been-added-so-far">The following articles have been added so far:<a href="https://sfdevops.info/blog/environments_section_added#the-following-articles-have-been-added-so-far" class="hash-link" aria-label="Direct link to The following articles have been added so far:" title="Direct link to The following articles have been added so far:">​</a></h3>
+            <content:encoded><![CDATA[<p>Work on an important section dedicated to <a class="" href="https://sfdevops.info/docs/category/enviroments/">monitoring and managing Salesforce environments</a> has been completed.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-following-articles-have-been-added-so-far">The following articles have been added so far:<a href="https://sfdevops.info/blog/environments_section_added/#the-following-articles-have-been-added-so-far" class="hash-link" aria-label="Direct link to The following articles have been added so far:" title="Direct link to The following articles have been added so far:" translate="no">​</a></h3>
 <p><strong>Backup:</strong></p>
 <ul>
-<li><strong>Data Backup</strong> – strategies for data backup and tool selection</li>
-<li><strong>Metadata Backup</strong> – how and why to back up your environment’s configuration</li>
+<li class=""><strong>Data Backup</strong> – strategies for data backup and tool selection</li>
+<li class=""><strong>Metadata Backup</strong> – how and why to back up your environment’s configuration</li>
 </ul>
 <p><strong>Salesforce Monitoring:</strong></p>
 <ul>
-<li><strong>System Overview</strong> – tracking system resources</li>
-<li><strong>Debug Logs</strong> – debugging Apex errors and more</li>
-<li><strong>Apex Exception Email</strong> – automatic failure notifications in code</li>
-<li><strong>Event Monitoring, Real-Time Event Monitoring</strong> – auditing events and activity</li>
-<li><strong>Security Health Check</strong> – evaluating and managing environment security</li>
+<li class=""><strong>System Overview</strong> – tracking system resources</li>
+<li class=""><strong>Debug Logs</strong> – debugging Apex errors and more</li>
+<li class=""><strong>Apex Exception Email</strong> – automatic failure notifications in code</li>
+<li class=""><strong>Event Monitoring, Real-Time Event Monitoring</strong> – auditing events and activity</li>
+<li class=""><strong>Security Health Check</strong> – evaluating and managing environment security</li>
 </ul>
 <p>The articles cover not only the built-in Salesforce tools but also practical advice on automation, CI/CD, and security compliance.<br>
 <!-- -->With these materials, you’ll be able to efficiently monitor the state of your Salesforce environment, quickly detect issues, and proactively prevent incidents.</p>
@@ -75,19 +75,19 @@
         </item>
         <item>
             <title><![CDATA[The delivery strategie section has been added.]]></title>
-            <link>https://sfdevops.info/blog/delivery_strategie_section_added</link>
-            <guid>https://sfdevops.info/blog/delivery_strategie_section_added</guid>
+            <link>https://sfdevops.info/blog/delivery_strategie_section_added/</link>
+            <guid>https://sfdevops.info/blog/delivery_strategie_section_added/</guid>
             <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[A new section on change Delivery Strategies has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.]]></description>
-            <content:encoded><![CDATA[<p>A new section on change <a href="https://sfdevops.info/docs/category/delivery-strategies">Delivery Strategies</a> has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.
+            <content:encoded><![CDATA[<p>A new section on change <a class="" href="https://sfdevops.info/docs/category/delivery-strategies/">Delivery Strategies</a> has been added to the knowledge base. Now, detailed materials on key deployment methods are available to help minimize risks and improve system stability.
 What's New?</p>
 <ul>
-<li><strong>Fundamentals of Delivery Strategies</strong> – How to choose the optimal deployment method</li>
-<li><strong>Phased Rollouts</strong> – Step-by-step implementation to reduce risks</li>
-<li><strong>Dark Launches</strong> – Deploying without user visibility</li>
-<li><strong>Blue-Green Deployment</strong> – Minimizing downtime and enabling quick rollbacks</li>
-<li><strong>Big Bang Deployment</strong> – Full release in one go and its risks</li>
-<li><strong>A/B Testing</strong> – Experimenting to enhance user experience</li>
+<li class=""><strong>Fundamentals of Delivery Strategies</strong> – How to choose the optimal deployment method</li>
+<li class=""><strong>Phased Rollouts</strong> – Step-by-step implementation to reduce risks</li>
+<li class=""><strong>Dark Launches</strong> – Deploying without user visibility</li>
+<li class=""><strong>Blue-Green Deployment</strong> – Minimizing downtime and enabling quick rollbacks</li>
+<li class=""><strong>Big Bang Deployment</strong> – Full release in one go and its risks</li>
+<li class=""><strong>A/B Testing</strong> – Experimenting to enhance user experience</li>
 </ul>
 <p>These materials will help DevOps engineers, Delivery managers, and anyone involved in system changes to manage deployments efficiently and safely.</p>]]></content:encoded>
             <category>DevOps</category>
@@ -96,22 +96,22 @@ What's New?</p>
         </item>
         <item>
             <title><![CDATA[The deployment management section has been updated.]]></title>
-            <link>https://sfdevops.info/blog/deployment_management_section_added</link>
-            <guid>https://sfdevops.info/blog/deployment_management_section_added</guid>
+            <link>https://sfdevops.info/blog/deployment_management_section_added/</link>
+            <guid>https://sfdevops.info/blog/deployment_management_section_added/</guid>
             <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Basic articles have been added to the deployment management section.]]></description>
-            <content:encoded><![CDATA[<p>Basic articles have been added to the <a href="https://sfdevops.info/docs/category/salesforce-deployment">deployment management section</a>.<br>
+            <content:encoded><![CDATA[<p>Basic articles have been added to the <a class="" href="https://sfdevops.info/docs/category/salesforce-deployment/">deployment management section</a>.<br>
 <!-- -->In this section, you will find materials that will help optimize deployment processes, and improve system stability.</p>
 <p>The section includes articles on the following key topics:</p>
 <ul>
-<li><strong>Basics of Deployment Management</strong>: Understanding the differences between release and deployment stages to minimize risks and improve planning.</li>
-<li><strong>Process Automation</strong>: Fundamental principles and approaches to automation for increased reliability and efficiency.</li>
-<li><strong>Metadata Deployment Approaches</strong>: Choosing between full and partial deployment to optimize resources and enhance control.</li>
-<li><strong>Testing During Deployment</strong>: Running tests to ensure high quality and system stability.</li>
-<li><strong>Removing Outdated Components</strong>: Recommendations for implementing destructive changes to maintain order and relevance in the system.</li>
-<li><strong>Quick Deploy</strong>: Leveraging accelerated deployment for critical changes.</li>
-<li><strong>Version Management</strong>: Utilizing modular approaches and Salesforce packages to simplify updates and improve control.</li>
-<li><strong>Quality Control</strong>: Using test coverage matrices for transparent analysis and quality improvement.</li>
+<li class=""><strong>Basics of Deployment Management</strong>: Understanding the differences between release and deployment stages to minimize risks and improve planning.</li>
+<li class=""><strong>Process Automation</strong>: Fundamental principles and approaches to automation for increased reliability and efficiency.</li>
+<li class=""><strong>Metadata Deployment Approaches</strong>: Choosing between full and partial deployment to optimize resources and enhance control.</li>
+<li class=""><strong>Testing During Deployment</strong>: Running tests to ensure high quality and system stability.</li>
+<li class=""><strong>Removing Outdated Components</strong>: Recommendations for implementing destructive changes to maintain order and relevance in the system.</li>
+<li class=""><strong>Quick Deploy</strong>: Leveraging accelerated deployment for critical changes.</li>
+<li class=""><strong>Version Management</strong>: Utilizing modular approaches and Salesforce packages to simplify updates and improve control.</li>
+<li class=""><strong>Quality Control</strong>: Using test coverage matrices for transparent analysis and quality improvement.</li>
 </ul>
 <p>This section will become a valuable tool for teams aiming to optimize development and deployment processes in Salesforce. If you'd like to contribute, join the project!</p>]]></content:encoded>
             <category>DevOps</category>
@@ -120,24 +120,24 @@ What's New?</p>
         </item>
         <item>
             <title><![CDATA[The release management section has been updated.]]></title>
-            <link>https://sfdevops.info/blog/release_management_section_added</link>
-            <guid>https://sfdevops.info/blog/release_management_section_added</guid>
+            <link>https://sfdevops.info/blog/release_management_section_added/</link>
+            <guid>https://sfdevops.info/blog/release_management_section_added/</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Basic articles have been added to the release management section.]]></description>
-            <content:encoded><![CDATA[<p>Basic articles have been added to the <a href="https://sfdevops.info/docs/category/release">release management section</a>.<br>
-<!-- -->The articles contain information on methodology and practical advice on release management, with a separate note dedicated to <a href="https://sfdevops.info/docs/Practices_and_Processes/02_01_Release/02_01_04_HotFix">HotFix</a>. <a href="https://sfdevops.info/docs/Practices_and_Processes/02_01_Release/02_01_99_Anti_patterns">Anti-patterns</a> can help conduct a quick, superficial review of the project's release management processes, allowing for the identification of common mistakes and shortcomings.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Basic articles have been added to the <a class="" href="https://sfdevops.info/docs/category/release/">release management section</a>.<br>
+<!-- -->The articles contain information on methodology and practical advice on release management, with a separate note dedicated to <a class="" href="https://sfdevops.info/docs/Practices_and_Processes/02_01_Release/02_01_04_HotFix/">HotFix</a>. <a class="" href="https://sfdevops.info/docs/Practices_and_Processes/02_01_Release/02_01_99_Anti_patterns/">Anti-patterns</a> can help conduct a quick, superficial review of the project's release management processes, allowing for the identification of common mistakes and shortcomings.</p>]]></content:encoded>
             <category>DevOps</category>
             <category>DM</category>
             <category>Update</category>
         </item>
         <item>
             <title><![CDATA[Adding articles and updating the structure.]]></title>
-            <link>https://sfdevops.info/blog/git-and-roles-and-structure</link>
-            <guid>https://sfdevops.info/blog/git-and-roles-and-structure</guid>
+            <link>https://sfdevops.info/blog/git-and-roles-and-structure/</link>
+            <guid>https://sfdevops.info/blog/git-and-roles-and-structure/</guid>
             <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[The portal structure has been modified for easier navigation.]]></description>
             <content:encoded><![CDATA[<p>The portal structure has been modified for easier navigation.<br>
-<!-- -->Articles on <a href="https://sfdevops.info/docs/Roles">Roles</a> and <a href="https://sfdevops.info/docs/category/git">Git Management</a>, including descriptions of strategies and comparisons, have been added.
+<!-- -->Articles on <a class="" href="https://sfdevops.info/docs/Roles/">Roles</a> and <a class="" href="https://sfdevops.info/docs/category/git/">Git Management</a>, including descriptions of strategies and comparisons, have been added.
 Articles on other topics are currently being created.</p>]]></content:encoded>
             <category>DevOps</category>
             <category>DM</category>
@@ -145,8 +145,8 @@ Articles on other topics are currently being created.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://sfdevops.info/blog/welcome</link>
-            <guid>https://sfdevops.info/blog/welcome</guid>
+            <link>https://sfdevops.info/blog/welcome/</link>
+            <guid>https://sfdevops.info/blog/welcome/</guid>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[DevOps and Delivery practices are underdeveloped in Salesforce projects.]]></description>
             <content:encoded><![CDATA[<p>DevOps and Delivery practices are underdeveloped in Salesforce projects.
