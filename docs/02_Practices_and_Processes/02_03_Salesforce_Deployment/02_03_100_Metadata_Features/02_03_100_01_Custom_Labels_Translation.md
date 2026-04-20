@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Deploy Custom Labels Translation
 tags: [metadata, deploy, FAQ]
-sidebar_class_name: disabled-page
+draft: true
 ---
 # How to Deploy Custom Labels Translation
 

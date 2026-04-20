@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Flows deletion
 tags: [script, apex, bash, env]
-sidebar_class_name: disabled-page
+draft: true
 ---
 
 # Mass Delete Unused Flow and Process Builder Versions in Salesforce

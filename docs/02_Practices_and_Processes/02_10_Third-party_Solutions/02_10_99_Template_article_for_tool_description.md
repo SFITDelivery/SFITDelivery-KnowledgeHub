@@ -2,7 +2,7 @@
 sidebar_position: 99
 title: Template article for tool description
 tags: [Tools, Comparison]
-sidebar_class_name: disabled-page
+draft: true
 ---
 :::info
 This article is part of a series covering third-party tools that can be used to implement DevOps practices and automate CI/CD in various projects.<br/>
