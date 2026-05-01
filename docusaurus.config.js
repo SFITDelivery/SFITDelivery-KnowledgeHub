@@ -48,6 +48,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          showLastUpdateTime: true,
           editUrl:
             'https://github.com/SFITDelivery/SFITDelivery-KnowledgeHub/tree/main/',
         },
@@ -60,6 +61,7 @@ const config = {
           customCss: './src/css/custom.css',
         },
         sitemap: {
+          lastmod: 'date',
           changefreq: 'weekly',
           priority: 0.5,
           ignorePatterns: ['/tags/**', '/docs/tags/**', '/blog/tags/**'],
