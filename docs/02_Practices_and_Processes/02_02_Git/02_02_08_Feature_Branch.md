@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-12
 sidebar_position: 8
 title: Feature Branch
 tags: [Practices_and_Processes, Git]

@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-12
 sidebar_position: 4
 title: Copado Branching Strategy
 tags: [Practices_and_Processes, Git, Copado]

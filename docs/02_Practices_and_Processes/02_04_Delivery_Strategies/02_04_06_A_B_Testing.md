@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2025-02-22
 sidebar_position: 6
 title: A/B Testing
 tags: [Practices_and_Processes, Change, Tests]

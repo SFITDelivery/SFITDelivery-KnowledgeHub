@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2025-04-05
 sidebar_position: 5
 title: Event Monitoring
 tags: [Practices_and_Processes, Environment, Monitoring]

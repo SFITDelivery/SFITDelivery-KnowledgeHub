@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-26
 sidebar_position: 1
 title: Release Management
 tags: [Practices_and_Processes, Release]

@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-26
 sidebar_position: 2
 title: Release Planning
 tags: [Practices_and_Processes, Release]

@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-12
 sidebar_position: 2
 title: Responsibility
 tags: [DevOps, role, FAQ, grades, Responsibility]

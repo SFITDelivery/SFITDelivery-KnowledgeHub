@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2025-02-22
 sidebar_position: 7
 title: Batch Size
 tags: [Practices_and_Processes, Relese]

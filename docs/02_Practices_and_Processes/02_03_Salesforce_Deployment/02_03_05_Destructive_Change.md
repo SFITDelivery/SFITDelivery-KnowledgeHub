@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2025-02-22
 sidebar_position: 5
 title: Destructive Change
 tags: [Practices_and_Processes, Deployment, Destructive Change]

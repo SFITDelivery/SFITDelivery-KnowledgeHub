@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-02-23
 sidebar_position: 10
 title: Books Videos Materials
 tags: [DevOps, Onboarding, Book, Video, Self-development]

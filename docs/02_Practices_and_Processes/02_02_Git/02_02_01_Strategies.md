@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-12
 sidebar_position: 1
 title: Git Strategies
 tags: [Practices_and_Processes, Git, Comparison]

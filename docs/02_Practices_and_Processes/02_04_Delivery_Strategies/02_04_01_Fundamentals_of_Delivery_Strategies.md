@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2025-02-22
 sidebar_position: 1
 title: Fundamentals of Delivery Strategies
 tags: [Practices_and_Processes, Delivery, Base]

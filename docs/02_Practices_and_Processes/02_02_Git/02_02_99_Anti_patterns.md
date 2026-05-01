@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-12-08
 sidebar_position: 99
 title: Anti-patterns
 tags: [Practices_and_Processes, Git, Anti-patterns]

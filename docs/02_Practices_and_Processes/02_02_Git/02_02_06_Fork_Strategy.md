@@ -1,4 +1,6 @@
 ---
+last_update:
+  date: 2024-08-12
 sidebar_position: 6
 title: Git Fork Strategy
 tags: [Practices_and_Processes, Git, Fork]
